@@ -4,3 +4,5 @@ __pycache__/
 *.tmp.wav
 audition/BATCH2.mp3
 audition/BATCH2_index.txt
+audition/BATCH3.mp3
+audition/BATCH3_index.txt

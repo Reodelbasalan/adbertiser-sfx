@@ -1,4 +1,4 @@
-# Adbertiser SFX: 378 free sound effects for video editors
+# Adbertiser SFX: 408 free sound effects for video editors
 
 Whooshes, pops, clicks, dings, cash register, typing, glitches, risers, impacts, cinematic hits, camera shutters, magic sparkles, cartoon boings, 8-bit game sounds, alerts, drums, paper, nature and foley. These are the everyday sounds you reach for when you edit Reels, TikToks, Shorts, ads and YouTube videos.
 
@@ -29,7 +29,7 @@ Each category has a preview MP3 in [`audition/`](audition/): every sound in that
 
 Mixing tip: keep SFX roughly 15–20 dB under the voice. Whooshes and risers land best when they peak right on the cut, and impacts land best on the beat or the reveal.
 
-## Sounds (378 in 26 categories)
+## Sounds (408 in 30 categories)
 
 | Category | Count | Good for |
 |---|---|---|
@@ -39,11 +39,14 @@ Mixing tip: keep SFX roughly 15–20 dB under the voice. Whooshes and risers lan
 | [riser](#riser-12) | 12 | builds before a drop, reveal or CTA |
 | [impact](#impact-22) | 22 | hits, booms, drops, punches |
 | [cinematic](#cinematic-11) | 11 | trailer hits, braams, tension, suspense |
+| [horror](#horror-6) | 6 | jump scares, creepy music box, ghost, dramatic dun-dun |
 | [pop](#pop-15) | 15 | stickers, text pop-ups, emojis |
-| [ui](#ui-24) | 24 | clicks, taps, toggles, app demos |
+| [ui](#ui-29) | 29 | clicks, taps, toggles, app demos |
 | [ding](#ding-18) | 18 | notifications, success, highlights |
 | [social](#social-11) | 11 | likes, follows, messages, phone buzz |
 | [crowd](#crowd-9) | 9 | applause, cheers, ooh/aww/wow reactions, whistles |
+| [festive](#festive-7) | 7 | Christmas, New Year, parties: bells, torotot, air horn, paputok |
+| [sports](#sports-5) | 5 | ball bounce, boxing bell, stadium horn, kicks |
 | [money](#money-12) | 12 | sales, prices, cash, counters |
 | [typing](#typing-9) | 9 | keyboards, typewriters, text typing on |
 | [camera](#camera-9) | 9 | shutters, flashes, photo moments |
@@ -56,6 +59,7 @@ Mixing tip: keep SFX roughly 15–20 dB under the voice. Whooshes and risers lan
 | [alert](#alert-12) | 12 | error, correct/wrong, alarms, censor bleep |
 | [timer](#timer-9) | 9 | ticks, countdowns, clocks |
 | [drums](#drums-12) | 12 | beat-synced cuts and accents |
+| [food](#food-7) | 7 | sizzle, crunch, pour, fizz, chopping (food ads) |
 | [paper](#paper-11) | 11 | paper, notes, stamps, writing |
 | [foley](#foley-30) | 30 | real-world props: zipper, knock, glass, steps |
 | [nature](#nature-12) | 12 | ambience beds: wind, rain, fire, waves |
@@ -197,6 +201,19 @@ Preview: [audition/cinematic.mp3](audition/cinematic.mp3)
 | [`rumble`](sounds/cinematic/rumble.wav) | 2.99 s | Low rumble (3 s) |
 | [`slow_motion`](sounds/cinematic/slow_motion.wav) | 2.20 s | Slow-motion whoosh down |
 
+### horror (6)
+
+Preview: [audition/horror.mp3](audition/horror.mp3)
+
+| Sound | Length | What it is |
+|---|---|---|
+| [`music_box_creepy`](sounds/horror/music_box_creepy.wav) | 4.17 s | Out-of-tune creepy music box |
+| [`jump_scare_1`](sounds/horror/jump_scare_1.wav) | 2.12 s | Sudden jump-scare stab |
+| [`jump_scare_2`](sounds/horror/jump_scare_2.wav) | 2.17 s | Reverse swell into a scare |
+| [`ghost_whoosh`](sounds/horror/ghost_whoosh.wav) | 3.57 s | Ghostly moaning whoosh |
+| [`dun_dun_dunnn`](sounds/horror/dun_dun_dunnn.wav) | 4.00 s | Dramatic "dun dun DUNNN" |
+| [`creak_long`](sounds/horror/creak_long.wav) | 1.78 s | Long creepy creak |
+
 ### pop (15)
 
 Preview: [audition/pop.mp3](audition/pop.mp3)
@@ -219,7 +236,7 @@ Preview: [audition/pop.mp3](audition/pop.mp3)
 | [`pop_mouth`](sounds/pop/pop_mouth.wav) | 0.07 s | Mouth / lip pop |
 | [`pop_double`](sounds/pop/pop_double.wav) | 0.21 s | Two quick pops |
 
-### ui (24)
+### ui (29)
 
 Preview: [audition/ui.mp3](audition/ui.mp3)
 
@@ -249,6 +266,11 @@ Preview: [audition/ui.mp3](audition/ui.mp3)
 | [`ui_hover`](sounds/ui/ui_hover.wav) | 0.04 s | Very soft hover tick |
 | [`ui_confirm`](sounds/ui/ui_confirm.wav) | 0.42 s | Three-note confirm |
 | [`ui_cancel`](sounds/ui/ui_cancel.wav) | 0.19 s | Low two-note cancel |
+| [`lock`](sounds/ui/lock.wav) | 0.18 s | Lock (click + clunk) |
+| [`unlock`](sounds/ui/unlock.wav) | 0.18 s | Unlock (clunk + up blip) |
+| [`download_complete`](sounds/ui/download_complete.wav) | 1.33 s | Download complete |
+| [`delete_trash`](sounds/ui/delete_trash.wav) | 0.51 s | Delete: crumple into the trash |
+| [`upload_whoosh`](sounds/ui/upload_whoosh.wav) | 0.35 s | Upload / send whoosh with blip |
 
 ### ding (18)
 
@@ -308,6 +330,32 @@ Preview: [audition/crowd.mp3](audition/crowd.mp3)
 | [`cheer`](sounds/crowd/cheer.wav) | 4.08 s | Crowd cheer with applause and whistles |
 | [`finger_whistle`](sounds/crowd/finger_whistle.wav) | 0.80 s | Loud finger whistle |
 | [`whistle_wolf`](sounds/crowd/whistle_wolf.wav) | 1.05 s | Two-part "wheet-whew" whistle |
+
+### festive (7)
+
+Preview: [audition/festive.mp3](audition/festive.mp3)
+
+| Sound | Length | What it is |
+|---|---|---|
+| [`jingle_bells`](sounds/festive/jingle_bells.wav) | 2.46 s | Sleigh / jingle bells shaking (2 s) |
+| [`party_horn_1`](sounds/festive/party_horn_1.wav) | 0.90 s | Party horn / torotot blow |
+| [`party_horn_2`](sounds/festive/party_horn_2.wav) | 0.35 s | Party blowout toot |
+| [`confetti_popper`](sounds/festive/confetti_popper.wav) | 1.33 s | Confetti popper bang + falling confetti |
+| [`air_horn_1`](sounds/festive/air_horn_1.wav) | 1.47 s | Air horn blast |
+| [`air_horn_2`](sounds/festive/air_horn_2.wav) | 1.71 s | Air horn x3 (short-short-long) |
+| [`firecracker_string`](sounds/festive/firecracker_string.wav) | 3.23 s | String of firecrackers (2.5 s) |
+
+### sports (5)
+
+Preview: [audition/sports.mp3](audition/sports.mp3)
+
+| Sound | Length | What it is |
+|---|---|---|
+| [`basketball_bounce`](sounds/sports/basketball_bounce.wav) | 2.02 s | Basketball dribble |
+| [`boxing_bell`](sounds/sports/boxing_bell.wav) | 2.37 s | Boxing ring bell ding-ding-ding |
+| [`stadium_horn`](sounds/sports/stadium_horn.wav) | 3.34 s | Big stadium horn |
+| [`ball_kick`](sounds/sports/ball_kick.wav) | 0.20 s | Ball kick |
+| [`racket_hit`](sounds/sports/racket_hit.wav) | 0.30 s | Tennis / badminton racket hit |
 
 ### money (12)
 
@@ -545,6 +593,20 @@ Preview: [audition/drums.mp3](audition/drums.mp3)
 | [`tom`](sounds/drums/tom.wav) | 0.60 s | Floor tom |
 | [`crash`](sounds/drums/crash.wav) | 2.53 s | Crash cymbal |
 | [`drum_roll`](sounds/drums/drum_roll.wav) | 3.54 s | Snare roll building up |
+
+### food (7)
+
+Preview: [audition/food.mp3](audition/food.mp3)
+
+| Sound | Length | What it is |
+|---|---|---|
+| [`sizzle`](sounds/food/sizzle.wav) | 4.00 s | Frying / sizzling pan (4 s) |
+| [`crunch_1`](sounds/food/crunch_1.wav) | 0.25 s | Crunchy chip bite |
+| [`crunch_2`](sounds/food/crunch_2.wav) | 1.06 s | Crunchy chewing |
+| [`can_open_fizz`](sounds/food/can_open_fizz.wav) | 1.59 s | Soda can open + fizz |
+| [`pour`](sounds/food/pour.wav) | 2.00 s | Pouring a drink into a glass |
+| [`splash`](sounds/food/splash.wav) | 1.03 s | Water splash |
+| [`chopping`](sounds/food/chopping.wav) | 1.13 s | Knife chopping on a board |
 
 ### paper (11)
 

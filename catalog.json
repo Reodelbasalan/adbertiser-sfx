@@ -1235,6 +1235,84 @@
   "description": "Slow-motion whoosh down"
  },
  {
+  "name": "music_box_creepy",
+  "category": "horror",
+  "file": "sounds/horror/music_box_creepy.wav",
+  "duration": 4.166,
+  "channels": 2,
+  "tags": [
+   "music box",
+   "creepy",
+   "horror"
+  ],
+  "description": "Out-of-tune creepy music box"
+ },
+ {
+  "name": "jump_scare_1",
+  "category": "horror",
+  "file": "sounds/horror/jump_scare_1.wav",
+  "duration": 2.121,
+  "channels": 2,
+  "tags": [
+   "jump scare",
+   "scary",
+   "horror"
+  ],
+  "description": "Sudden jump-scare stab"
+ },
+ {
+  "name": "jump_scare_2",
+  "category": "horror",
+  "file": "sounds/horror/jump_scare_2.wav",
+  "duration": 2.167,
+  "channels": 2,
+  "tags": [
+   "jump scare",
+   "scary",
+   "horror"
+  ],
+  "description": "Reverse swell into a scare"
+ },
+ {
+  "name": "ghost_whoosh",
+  "category": "horror",
+  "file": "sounds/horror/ghost_whoosh.wav",
+  "duration": 3.566,
+  "channels": 2,
+  "tags": [
+   "ghost",
+   "spooky",
+   "whoosh"
+  ],
+  "description": "Ghostly moaning whoosh"
+ },
+ {
+  "name": "dun_dun_dunnn",
+  "category": "horror",
+  "file": "sounds/horror/dun_dun_dunnn.wav",
+  "duration": 4.0,
+  "channels": 2,
+  "tags": [
+   "dramatic",
+   "reveal",
+   "shock"
+  ],
+  "description": "Dramatic \"dun dun DUNNN\""
+ },
+ {
+  "name": "creak_long",
+  "category": "horror",
+  "file": "sounds/horror/creak_long.wav",
+  "duration": 1.785,
+  "channels": 1,
+  "tags": [
+   "creak",
+   "door",
+   "haunted"
+  ],
+  "description": "Long creepy creak"
+ },
+ {
   "name": "pop_1",
   "category": "pop",
   "file": "sounds/pop/pop_1.wav",
@@ -1739,6 +1817,71 @@
   "description": "Low two-note cancel"
  },
  {
+  "name": "lock",
+  "category": "ui",
+  "file": "sounds/ui/lock.wav",
+  "duration": 0.18,
+  "channels": 1,
+  "tags": [
+   "lock",
+   "secure",
+   "ui"
+  ],
+  "description": "Lock (click + clunk)"
+ },
+ {
+  "name": "unlock",
+  "category": "ui",
+  "file": "sounds/ui/unlock.wav",
+  "duration": 0.18,
+  "channels": 1,
+  "tags": [
+   "unlock",
+   "open",
+   "ui"
+  ],
+  "description": "Unlock (clunk + up blip)"
+ },
+ {
+  "name": "download_complete",
+  "category": "ui",
+  "file": "sounds/ui/download_complete.wav",
+  "duration": 1.327,
+  "channels": 2,
+  "tags": [
+   "download",
+   "done",
+   "complete"
+  ],
+  "description": "Download complete"
+ },
+ {
+  "name": "delete_trash",
+  "category": "ui",
+  "file": "sounds/ui/delete_trash.wav",
+  "duration": 0.514,
+  "channels": 1,
+  "tags": [
+   "delete",
+   "trash",
+   "remove"
+  ],
+  "description": "Delete: crumple into the trash"
+ },
+ {
+  "name": "upload_whoosh",
+  "category": "ui",
+  "file": "sounds/ui/upload_whoosh.wav",
+  "duration": 0.355,
+  "channels": 2,
+  "tags": [
+   "upload",
+   "send",
+   "whoosh"
+  ],
+  "description": "Upload / send whoosh with blip"
+ },
+ {
   "name": "ding_1",
   "category": "ding",
   "file": "sounds/ding/ding_1.wav",
@@ -2232,6 +2375,165 @@
    "flirt"
   ],
   "description": "Two-part \"wheet-whew\" whistle"
+ },
+ {
+  "name": "jingle_bells",
+  "category": "festive",
+  "file": "sounds/festive/jingle_bells.wav",
+  "duration": 2.462,
+  "channels": 2,
+  "tags": [
+   "jingle",
+   "christmas",
+   "bells",
+   "pasko"
+  ],
+  "description": "Sleigh / jingle bells shaking (2 s)"
+ },
+ {
+  "name": "party_horn_1",
+  "category": "festive",
+  "file": "sounds/festive/party_horn_1.wav",
+  "duration": 0.9,
+  "channels": 1,
+  "tags": [
+   "torotot",
+   "party horn",
+   "new year",
+   "bagong taon"
+  ],
+  "description": "Party horn / torotot blow"
+ },
+ {
+  "name": "party_horn_2",
+  "category": "festive",
+  "file": "sounds/festive/party_horn_2.wav",
+  "duration": 0.35,
+  "channels": 1,
+  "tags": [
+   "party",
+   "blowout",
+   "birthday"
+  ],
+  "description": "Party blowout toot"
+ },
+ {
+  "name": "confetti_popper",
+  "category": "festive",
+  "file": "sounds/festive/confetti_popper.wav",
+  "duration": 1.335,
+  "channels": 2,
+  "tags": [
+   "confetti",
+   "popper",
+   "celebration"
+  ],
+  "description": "Confetti popper bang + falling confetti"
+ },
+ {
+  "name": "air_horn_1",
+  "category": "festive",
+  "file": "sounds/festive/air_horn_1.wav",
+  "duration": 1.472,
+  "channels": 2,
+  "tags": [
+   "air horn",
+   "hype",
+   "party"
+  ],
+  "description": "Air horn blast"
+ },
+ {
+  "name": "air_horn_2",
+  "category": "festive",
+  "file": "sounds/festive/air_horn_2.wav",
+  "duration": 1.709,
+  "channels": 2,
+  "tags": [
+   "air horn",
+   "hype",
+   "triple"
+  ],
+  "description": "Air horn x3 (short-short-long)"
+ },
+ {
+  "name": "firecracker_string",
+  "category": "festive",
+  "file": "sounds/festive/firecracker_string.wav",
+  "duration": 3.233,
+  "channels": 2,
+  "tags": [
+   "firecracker",
+   "paputok",
+   "new year"
+  ],
+  "description": "String of firecrackers (2.5 s)"
+ },
+ {
+  "name": "basketball_bounce",
+  "category": "sports",
+  "file": "sounds/sports/basketball_bounce.wav",
+  "duration": 2.017,
+  "channels": 2,
+  "tags": [
+   "basketball",
+   "bounce",
+   "ball"
+  ],
+  "description": "Basketball dribble"
+ },
+ {
+  "name": "boxing_bell",
+  "category": "sports",
+  "file": "sounds/sports/boxing_bell.wav",
+  "duration": 2.369,
+  "channels": 2,
+  "tags": [
+   "boxing",
+   "bell",
+   "round",
+   "fight"
+  ],
+  "description": "Boxing ring bell ding-ding-ding"
+ },
+ {
+  "name": "stadium_horn",
+  "category": "sports",
+  "file": "sounds/sports/stadium_horn.wav",
+  "duration": 3.343,
+  "channels": 2,
+  "tags": [
+   "stadium",
+   "horn",
+   "goal"
+  ],
+  "description": "Big stadium horn"
+ },
+ {
+  "name": "ball_kick",
+  "category": "sports",
+  "file": "sounds/sports/ball_kick.wav",
+  "duration": 0.2,
+  "channels": 1,
+  "tags": [
+   "kick",
+   "ball",
+   "football"
+  ],
+  "description": "Ball kick"
+ },
+ {
+  "name": "racket_hit",
+  "category": "sports",
+  "file": "sounds/sports/racket_hit.wav",
+  "duration": 0.3,
+  "channels": 1,
+  "tags": [
+   "tennis",
+   "racket",
+   "hit"
+  ],
+  "description": "Tennis / badminton racket hit"
  },
  {
   "name": "cash_register_1",
@@ -4214,6 +4516,101 @@
    "drumroll"
   ],
   "description": "Snare roll building up"
+ },
+ {
+  "name": "sizzle",
+  "category": "food",
+  "file": "sounds/food/sizzle.wav",
+  "duration": 3.999,
+  "channels": 2,
+  "tags": [
+   "sizzle",
+   "frying",
+   "cooking",
+   "prito"
+  ],
+  "description": "Frying / sizzling pan (4 s)"
+ },
+ {
+  "name": "crunch_1",
+  "category": "food",
+  "file": "sounds/food/crunch_1.wav",
+  "duration": 0.25,
+  "channels": 1,
+  "tags": [
+   "crunch",
+   "chips",
+   "bite",
+   "snack"
+  ],
+  "description": "Crunchy chip bite"
+ },
+ {
+  "name": "crunch_2",
+  "category": "food",
+  "file": "sounds/food/crunch_2.wav",
+  "duration": 1.06,
+  "channels": 1,
+  "tags": [
+   "crunch",
+   "chewing",
+   "snack"
+  ],
+  "description": "Crunchy chewing"
+ },
+ {
+  "name": "can_open_fizz",
+  "category": "food",
+  "file": "sounds/food/can_open_fizz.wav",
+  "duration": 1.595,
+  "channels": 1,
+  "tags": [
+   "soda",
+   "can",
+   "fizz",
+   "drink"
+  ],
+  "description": "Soda can open + fizz"
+ },
+ {
+  "name": "pour",
+  "category": "food",
+  "file": "sounds/food/pour.wav",
+  "duration": 1.999,
+  "channels": 1,
+  "tags": [
+   "pour",
+   "drink",
+   "glass",
+   "water"
+  ],
+  "description": "Pouring a drink into a glass"
+ },
+ {
+  "name": "splash",
+  "category": "food",
+  "file": "sounds/food/splash.wav",
+  "duration": 1.035,
+  "channels": 2,
+  "tags": [
+   "splash",
+   "water",
+   "pool"
+  ],
+  "description": "Water splash"
+ },
+ {
+  "name": "chopping",
+  "category": "food",
+  "file": "sounds/food/chopping.wav",
+  "duration": 1.13,
+  "channels": 1,
+  "tags": [
+   "chopping",
+   "knife",
+   "kitchen"
+  ],
+  "description": "Knife chopping on a board"
  },
  {
   "name": "paper_1",
