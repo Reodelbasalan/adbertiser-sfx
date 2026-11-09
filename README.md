@@ -1,4 +1,4 @@
-# Adbertiser SFX: 337 free sound effects for video editors
+# Adbertiser SFX: 378 free sound effects for video editors
 
 Whooshes, pops, clicks, dings, cash register, typing, glitches, risers, impacts, cinematic hits, camera shutters, magic sparkles, cartoon boings, 8-bit game sounds, alerts, drums, paper, nature and foley. These are the everyday sounds you reach for when you edit Reels, TikToks, Shorts, ads and YouTube videos.
 
@@ -29,34 +29,35 @@ Each category has a preview MP3 in [`audition/`](audition/): every sound in that
 
 Mixing tip: keep SFX roughly 15–20 dB under the voice. Whooshes and risers land best when they peak right on the cut, and impacts land best on the beat or the reveal.
 
-## Sounds (337 in 25 categories)
+## Sounds (378 in 26 categories)
 
 | Category | Count | Good for |
 |---|---|---|
 | [whoosh](#whoosh-20) | 20 | cuts, text fly-ins, fast transitions |
 | [swish](#swish-8) | 8 | whips, slices, quick motion |
-| [transition](#transition-18) | 18 | swipes, zooms, slides between shots |
+| [transition](#transition-22) | 22 | swipes, zooms, slides between shots |
 | [riser](#riser-12) | 12 | builds before a drop, reveal or CTA |
 | [impact](#impact-22) | 22 | hits, booms, drops, punches |
 | [cinematic](#cinematic-11) | 11 | trailer hits, braams, tension, suspense |
 | [pop](#pop-15) | 15 | stickers, text pop-ups, emojis |
 | [ui](#ui-24) | 24 | clicks, taps, toggles, app demos |
-| [ding](#ding-16) | 16 | notifications, success, highlights |
+| [ding](#ding-18) | 18 | notifications, success, highlights |
 | [social](#social-11) | 11 | likes, follows, messages, phone buzz |
-| [money](#money-11) | 11 | sales, prices, cash, counters |
+| [crowd](#crowd-9) | 9 | applause, cheers, ooh/aww/wow reactions, whistles |
+| [money](#money-12) | 12 | sales, prices, cash, counters |
 | [typing](#typing-9) | 9 | keyboards, typewriters, text typing on |
-| [camera](#camera-8) | 8 | shutters, flashes, photo moments |
+| [camera](#camera-9) | 9 | shutters, flashes, photo moments |
 | [glitch](#glitch-16) | 16 | glitch transitions, errors, digital looks |
 | [tech](#tech-13) | 13 | sci-fi, HUD, lasers, AI/tech videos |
 | [magic](#magic-13) | 13 | sparkles, reveals, glow moments |
-| [cartoon](#cartoon-19) | 19 | funny moments, memes, bounces |
+| [cartoon](#cartoon-23) | 23 | funny moments, memes, bounces |
 | [retro](#retro-14) | 14 | 8-bit game sounds, gamified content |
 | [stinger](#stinger-11) | 11 | short jingles: win, fail, ta-da, news |
 | [alert](#alert-12) | 12 | error, correct/wrong, alarms, censor bleep |
-| [timer](#timer-8) | 8 | ticks, countdowns, clocks |
+| [timer](#timer-9) | 9 | ticks, countdowns, clocks |
 | [drums](#drums-12) | 12 | beat-synced cuts and accents |
 | [paper](#paper-11) | 11 | paper, notes, stamps, writing |
-| [foley](#foley-11) | 11 | real-world props: zipper, knock, glass, steps |
+| [foley](#foley-30) | 30 | real-world props: zipper, knock, glass, steps |
 | [nature](#nature-12) | 12 | ambience beds: wind, rain, fire, waves |
 
 ### whoosh (20)
@@ -101,7 +102,7 @@ Preview: [audition/swish.mp3](audition/swish.mp3)
 | [`swish_sword_2`](sounds/swish/swish_sword_2.wav) | 1.34 s | Sharp blade slice with metal ring |
 | [`swish_stick`](sounds/swish/swish_stick.wav) | 0.29 s | Thin stick swing with a whistle |
 
-### transition (18)
+### transition (22)
 
 Preview: [audition/transition.mp3](audition/transition.mp3)
 
@@ -125,6 +126,10 @@ Preview: [audition/transition.mp3](audition/transition.mp3)
 | [`spin`](sounds/transition/spin.wav) | 0.74 s | Spinning whoosh with a rotating flutter |
 | [`swoosh_tape`](sounds/transition/swoosh_tape.wav) | 0.60 s | Tape-stop style downward swoosh |
 | [`swoosh_rise`](sounds/transition/swoosh_rise.wav) | 0.41 s | Short rising swoosh into the next shot |
+| [`record_scratch_1`](sounds/transition/record_scratch_1.wav) | 0.50 s | DJ record scratch (wikka) |
+| [`record_scratch_2`](sounds/transition/record_scratch_2.wav) | 0.40 s | Record-stop scratch |
+| [`rewind`](sounds/transition/rewind.wav) | 1.40 s | Tape rewind (speeding up backwards) |
+| [`fast_forward`](sounds/transition/fast_forward.wav) | 1.40 s | Fast-forward (speeding up) |
 
 ### riser (12)
 
@@ -245,7 +250,7 @@ Preview: [audition/ui.mp3](audition/ui.mp3)
 | [`ui_confirm`](sounds/ui/ui_confirm.wav) | 0.42 s | Three-note confirm |
 | [`ui_cancel`](sounds/ui/ui_cancel.wav) | 0.19 s | Low two-note cancel |
 
-### ding (16)
+### ding (18)
 
 Preview: [audition/ding.mp3](audition/ding.mp3)
 
@@ -267,6 +272,8 @@ Preview: [audition/ding.mp3](audition/ding.mp3)
 | [`notif_message_2`](sounds/ding/notif_message_2.wav) | 0.19 s | New message bubble |
 | [`level_up_1`](sounds/ding/level_up_1.wav) | 1.08 s | Fast level-up arpeggio |
 | [`level_up_2`](sounds/ding/level_up_2.wav) | 1.10 s | Fast level-up arpeggio |
+| [`notif_4`](sounds/ding/notif_4.wav) | 0.87 s | Soft three-note notification |
+| [`notif_5`](sounds/ding/notif_5.wav) | 0.99 s | Plucky notification |
 
 ### social (11)
 
@@ -286,7 +293,23 @@ Preview: [audition/social.mp3](audition/social.mp3)
 | [`ringtone`](sounds/social/ringtone.wav) | 3.15 s | Original marimba ringtone |
 | [`notification_stack`](sounds/social/notification_stack.wav) | 1.03 s | Several notifications in a row |
 
-### money (11)
+### crowd (9)
+
+Preview: [audition/crowd.mp3](audition/crowd.mp3)
+
+| Sound | Length | What it is |
+|---|---|---|
+| [`applause_1`](sounds/crowd/applause_1.wav) | 4.28 s | Small group applause (4 s) |
+| [`applause_2`](sounds/crowd/applause_2.wav) | 5.63 s | Big audience applause (5 s) |
+| [`applause_short`](sounds/crowd/applause_short.wav) | 2.27 s | Short burst of applause (2 s) |
+| [`crowd_ooh`](sounds/crowd/crowd_ooh.wav) | 2.41 s | Impressed crowd "ooooh" |
+| [`crowd_aww`](sounds/crowd/crowd_aww.wav) | 2.34 s | Sympathetic crowd "awww" |
+| [`crowd_wow`](sounds/crowd/crowd_wow.wav) | 2.19 s | Crowd "woooow" |
+| [`cheer`](sounds/crowd/cheer.wav) | 4.08 s | Crowd cheer with applause and whistles |
+| [`finger_whistle`](sounds/crowd/finger_whistle.wav) | 0.80 s | Loud finger whistle |
+| [`whistle_wolf`](sounds/crowd/whistle_wolf.wav) | 1.05 s | Two-part "wheet-whew" whistle |
+
+### money (12)
 
 Preview: [audition/money.mp3](audition/money.mp3)
 
@@ -303,6 +326,7 @@ Preview: [audition/money.mp3](audition/money.mp3)
 | [`counter_roll_2`](sounds/money/counter_roll_2.wav) | 2.44 s | Counter rolling then ding |
 | [`cha_ching`](sounds/money/cha_ching.wav) | 1.61 s | Bright two-bell cha-ching |
 | [`money_counter`](sounds/money/money_counter.wav) | 1.22 s | Bills flicking through a counter |
+| [`payment_success`](sounds/money/payment_success.wav) | 1.78 s | Payment received chime |
 
 ### typing (9)
 
@@ -320,7 +344,7 @@ Preview: [audition/typing.mp3](audition/typing.mp3)
 | [`typewriter_bell`](sounds/typing/typewriter_bell.wav) | 1.60 s | Typewriter clacks, bell and carriage return |
 | [`typewriter_keys`](sounds/typing/typewriter_keys.wav) | 1.22 s | Typewriter typing |
 
-### camera (8)
+### camera (9)
 
 Preview: [audition/camera.mp3](audition/camera.mp3)
 
@@ -334,6 +358,7 @@ Preview: [audition/camera.mp3](audition/camera.mp3)
 | [`film_wind`](sounds/camera/film_wind.wav) | 0.85 s | Film advance ratchet |
 | [`focus_beep`](sounds/camera/focus_beep.wav) | 0.13 s | Autofocus bip-bip |
 | [`polaroid`](sounds/camera/polaroid.wav) | 1.20 s | Instant camera shot + motor |
+| [`lens_zoom`](sounds/camera/lens_zoom.wav) | 0.80 s | Lens zoom motor |
 
 ### glitch (16)
 
@@ -398,7 +423,7 @@ Preview: [audition/magic.mp3](audition/magic.mp3)
 | [`chime_tree`](sounds/magic/chime_tree.wav) | 2.05 s | Wind-chime glissando |
 | [`poof`](sounds/magic/poof.wav) | 1.24 s | Magic poof (disappear) |
 
-### cartoon (19)
+### cartoon (23)
 
 Preview: [audition/cartoon.mp3](audition/cartoon.mp3)
 
@@ -423,6 +448,10 @@ Preview: [audition/cartoon.mp3](audition/cartoon.mp3)
 | [`run_away`](sounds/cartoon/run_away.wav) | 0.75 s | Run-away blips + zoom |
 | [`pop_eyes`](sounds/cartoon/pop_eyes.wav) | 0.48 s | Eyes-pop "boink" |
 | [`drum_hit_fail`](sounds/cartoon/drum_hit_fail.wav) | 1.55 s | Comedy ba-dum-tss |
+| [`slip`](sounds/cartoon/slip.wav) | 0.65 s | Banana slip and fall |
+| [`dizzy`](sounds/cartoon/dizzy.wav) | 2.09 s | Dizzy circling stars |
+| [`honk_toy`](sounds/cartoon/honk_toy.wav) | 0.62 s | Clown horn honk-honk |
+| [`splat`](sounds/cartoon/splat.wav) | 0.44 s | Wet splat |
 
 ### retro (14)
 
@@ -482,7 +511,7 @@ Preview: [audition/alert.mp3](audition/alert.mp3)
 | [`attention_ping`](sounds/alert/attention_ping.wav) | 1.63 s | Sonar-like attention ping |
 | [`beep_short`](sounds/alert/beep_short.wav) | 0.12 s | Short beep |
 
-### timer (8)
+### timer (9)
 
 Preview: [audition/timer.mp3](audition/timer.mp3)
 
@@ -496,6 +525,7 @@ Preview: [audition/timer.mp3](audition/timer.mp3)
 | [`timer_done`](sounds/timer/timer_done.wav) | 0.96 s | Digital timer alarm |
 | [`stopwatch`](sounds/timer/stopwatch.wav) | 1.59 s | Stopwatch start click and ticking |
 | [`metronome`](sounds/timer/metronome.wav) | 1.55 s | Four metronome clicks (120 bpm) |
+| [`ticking_bomb`](sounds/timer/ticking_bomb.wav) | 3.30 s | Ticking bomb countdown |
 
 ### drums (12)
 
@@ -534,7 +564,7 @@ Preview: [audition/paper.mp3](audition/paper.mp3)
 | [`crumple`](sounds/paper/crumple.wav) | 1.20 s | Paper crumpled into a ball |
 | [`sticky_note`](sounds/paper/sticky_note.wav) | 0.32 s | Sticky note peel and slap |
 
-### foley (11)
+### foley (30)
 
 Preview: [audition/foley.mp3](audition/foley.mp3)
 
@@ -551,6 +581,25 @@ Preview: [audition/foley.mp3](audition/foley.mp3)
 | [`footsteps`](sounds/foley/footsteps.wav) | 2.24 s | Footsteps on a hard floor |
 | [`door_open`](sounds/foley/door_open.wav) | 0.92 s | Door handle and creak |
 | [`cup_set_down`](sounds/foley/cup_set_down.wav) | 0.40 s | Cup set down on a table |
+| [`doorbell`](sounds/foley/doorbell.wav) | 2.97 s | Ding-dong doorbell |
+| [`school_bell`](sounds/foley/school_bell.wav) | 2.46 s | Electric school bell (2 s) |
+| [`bike_bell`](sounds/foley/bike_bell.wav) | 0.94 s | Bicycle bell ring-ring |
+| [`car_horn_1`](sounds/foley/car_horn_1.wav) | 0.93 s | Car horn honk |
+| [`car_horn_2`](sounds/foley/car_horn_2.wav) | 0.90 s | Double car honk |
+| [`elevator_ding`](sounds/foley/elevator_ding.wav) | 2.55 s | Elevator arrival ding |
+| [`referee_whistle`](sounds/foley/referee_whistle.wav) | 0.98 s | Referee whistle |
+| [`kiss`](sounds/foley/kiss.wav) | 0.17 s | Kiss / smooch |
+| [`slap`](sounds/foley/slap.wav) | 0.36 s | Face slap |
+| [`bubble_wrap`](sounds/foley/bubble_wrap.wav) | 0.91 s | Bubble wrap popping |
+| [`alarm_clock`](sounds/foley/alarm_clock.wav) | 2.56 s | Mechanical alarm clock ringing |
+| [`glass_break`](sounds/foley/glass_break.wav) | 1.35 s | Glass breaking |
+| [`door_slam`](sounds/foley/door_slam.wav) | 0.99 s | Door slam |
+| [`keys_jingle`](sounds/foley/keys_jingle.wav) | 0.79 s | Keys jingling |
+| [`phone_dial`](sounds/foley/phone_dial.wav) | 1.06 s | Phone keypad dialing tones |
+| [`phone_busy`](sounds/foley/phone_busy.wav) | 2.50 s | Busy / hang-up tone |
+| [`vinyl_crackle`](sounds/foley/vinyl_crackle.wav) | 3.98 s | Vinyl record crackle (4 s) |
+| [`receipt_print`](sounds/foley/receipt_print.wav) | 1.30 s | Receipt printer |
+| [`body_fall`](sounds/foley/body_fall.wav) | 0.92 s | Body falling to the floor |
 
 ### nature (12)
 

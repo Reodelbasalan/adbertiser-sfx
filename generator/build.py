@@ -16,7 +16,7 @@ from scipy.io import wavfile
 
 sys.path.insert(0, str(Path(__file__).parent))
 import dsp  # noqa: E402
-import r_motion, r_ui, r_fx, r_fun, r_world  # noqa: E402,F401
+import r_motion, r_ui, r_fx, r_fun, r_world, r_more  # noqa: E402,F401
 
 ROOT = Path(__file__).resolve().parent.parent
 SOUNDS = ROOT / 'sounds'
@@ -25,15 +25,15 @@ SR = dsp.SR
 # Loudness target per category: loudest 50 ms window, RMS in dBFS. Peaks are capped at -1 dBTP.
 TARGET = dict(whoosh=-14, swish=-14, transition=-14, riser=-14, pop=-14, ui=-16, ding=-15, social=-15,
               money=-14, typing=-16, timer=-16, alert=-15, glitch=-14, tech=-15, impact=-11, cinematic=-12,
-              camera=-15, magic=-16, cartoon=-14, retro=-15, stinger=-14, drums=-12, paper=-15, nature=-18, foley=-15)
-ORDER = ['whoosh', 'swish', 'transition', 'riser', 'impact', 'cinematic', 'pop', 'ui', 'ding', 'social', 'money',
+              camera=-15, magic=-16, cartoon=-14, retro=-15, stinger=-14, drums=-12, paper=-15, nature=-18, foley=-15, crowd=-16)
+ORDER = ['whoosh', 'swish', 'transition', 'riser', 'impact', 'cinematic', 'pop', 'ui', 'ding', 'social', 'crowd', 'money',
          'typing', 'camera', 'glitch', 'tech', 'magic', 'cartoon', 'retro', 'stinger', 'alert', 'timer', 'drums',
          'paper', 'foley', 'nature']
 GOOD = dict(whoosh='cuts, text fly-ins, fast transitions', swish='whips, slices, quick motion',
             transition='swipes, zooms, slides between shots', riser='builds before a drop, reveal or CTA',
             impact='hits, booms, drops, punches', cinematic='trailer hits, braams, tension, suspense',
             pop='stickers, text pop-ups, emojis', ui='clicks, taps, toggles, app demos',
-            ding='notifications, success, highlights', social='likes, follows, messages, phone buzz',
+            ding='notifications, success, highlights', social='likes, follows, messages, phone buzz', crowd='applause, cheers, ooh/aww/wow reactions, whistles',
             money='sales, prices, cash, counters', typing='keyboards, typewriters, text typing on',
             camera='shutters, flashes, photo moments', glitch='glitch transitions, errors, digital looks',
             tech='sci-fi, HUD, lasers, AI/tech videos', magic='sparkles, reveals, glow moments',

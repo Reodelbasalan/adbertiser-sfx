@@ -598,6 +598,59 @@
   "description": "Short rising swoosh into the next shot"
  },
  {
+  "name": "record_scratch_1",
+  "category": "transition",
+  "file": "sounds/transition/record_scratch_1.wav",
+  "duration": 0.5,
+  "channels": 1,
+  "tags": [
+   "scratch",
+   "dj",
+   "record"
+  ],
+  "description": "DJ record scratch (wikka)"
+ },
+ {
+  "name": "record_scratch_2",
+  "category": "transition",
+  "file": "sounds/transition/record_scratch_2.wav",
+  "duration": 0.4,
+  "channels": 1,
+  "tags": [
+   "scratch",
+   "stop",
+   "record",
+   "awkward"
+  ],
+  "description": "Record-stop scratch"
+ },
+ {
+  "name": "rewind",
+  "category": "transition",
+  "file": "sounds/transition/rewind.wav",
+  "duration": 1.4,
+  "channels": 1,
+  "tags": [
+   "rewind",
+   "tape",
+   "back"
+  ],
+  "description": "Tape rewind (speeding up backwards)"
+ },
+ {
+  "name": "fast_forward",
+  "category": "transition",
+  "file": "sounds/transition/fast_forward.wav",
+  "duration": 1.4,
+  "channels": 1,
+  "tags": [
+   "fast forward",
+   "tape",
+   "skip"
+  ],
+  "description": "Fast-forward (speeding up)"
+ },
+ {
   "name": "riser_short_1",
   "category": "riser",
   "file": "sounds/riser/riser_short_1.wav",
@@ -1895,6 +1948,32 @@
   "description": "Fast level-up arpeggio"
  },
  {
+  "name": "notif_4",
+  "category": "ding",
+  "file": "sounds/ding/notif_4.wav",
+  "duration": 0.873,
+  "channels": 2,
+  "tags": [
+   "notification",
+   "soft",
+   "phone"
+  ],
+  "description": "Soft three-note notification"
+ },
+ {
+  "name": "notif_5",
+  "category": "ding",
+  "file": "sounds/ding/notif_5.wav",
+  "duration": 0.988,
+  "channels": 2,
+  "tags": [
+   "notification",
+   "pluck",
+   "phone"
+  ],
+  "description": "Plucky notification"
+ },
+ {
   "name": "like_pop",
   "category": "social",
   "file": "sounds/social/like_pop.wav",
@@ -2036,6 +2115,123 @@
    "viral"
   ],
   "description": "Several notifications in a row"
+ },
+ {
+  "name": "applause_1",
+  "category": "crowd",
+  "file": "sounds/crowd/applause_1.wav",
+  "duration": 4.277,
+  "channels": 2,
+  "tags": [
+   "applause",
+   "clap",
+   "audience"
+  ],
+  "description": "Small group applause (4 s)"
+ },
+ {
+  "name": "applause_2",
+  "category": "crowd",
+  "file": "sounds/crowd/applause_2.wav",
+  "duration": 5.629,
+  "channels": 2,
+  "tags": [
+   "applause",
+   "big",
+   "audience"
+  ],
+  "description": "Big audience applause (5 s)"
+ },
+ {
+  "name": "applause_short",
+  "category": "crowd",
+  "file": "sounds/crowd/applause_short.wav",
+  "duration": 2.265,
+  "channels": 2,
+  "tags": [
+   "applause",
+   "short"
+  ],
+  "description": "Short burst of applause (2 s)"
+ },
+ {
+  "name": "crowd_ooh",
+  "category": "crowd",
+  "file": "sounds/crowd/crowd_ooh.wav",
+  "duration": 2.407,
+  "channels": 2,
+  "tags": [
+   "ooh",
+   "crowd",
+   "impressed"
+  ],
+  "description": "Impressed crowd \"ooooh\""
+ },
+ {
+  "name": "crowd_aww",
+  "category": "crowd",
+  "file": "sounds/crowd/crowd_aww.wav",
+  "duration": 2.337,
+  "channels": 2,
+  "tags": [
+   "aww",
+   "crowd",
+   "cute"
+  ],
+  "description": "Sympathetic crowd \"awww\""
+ },
+ {
+  "name": "crowd_wow",
+  "category": "crowd",
+  "file": "sounds/crowd/crowd_wow.wav",
+  "duration": 2.194,
+  "channels": 2,
+  "tags": [
+   "wow",
+   "crowd",
+   "amazed"
+  ],
+  "description": "Crowd \"woooow\""
+ },
+ {
+  "name": "cheer",
+  "category": "crowd",
+  "file": "sounds/crowd/cheer.wav",
+  "duration": 4.08,
+  "channels": 2,
+  "tags": [
+   "cheer",
+   "crowd",
+   "celebrate",
+   "win"
+  ],
+  "description": "Crowd cheer with applause and whistles"
+ },
+ {
+  "name": "finger_whistle",
+  "category": "crowd",
+  "file": "sounds/crowd/finger_whistle.wav",
+  "duration": 0.8,
+  "channels": 1,
+  "tags": [
+   "whistle",
+   "crowd",
+   "hype"
+  ],
+  "description": "Loud finger whistle"
+ },
+ {
+  "name": "whistle_wolf",
+  "category": "crowd",
+  "file": "sounds/crowd/whistle_wolf.wav",
+  "duration": 1.05,
+  "channels": 1,
+  "tags": [
+   "whistle",
+   "wow",
+   "flirt"
+  ],
+  "description": "Two-part \"wheet-whew\" whistle"
  },
  {
   "name": "cash_register_1",
@@ -2181,6 +2377,19 @@
    "counting"
   ],
   "description": "Bills flicking through a counter"
+ },
+ {
+  "name": "payment_success",
+  "category": "money",
+  "file": "sounds/money/payment_success.wav",
+  "duration": 1.779,
+  "channels": 2,
+  "tags": [
+   "payment",
+   "success",
+   "paid"
+  ],
+  "description": "Payment received chime"
  },
  {
   "name": "typing_1",
@@ -2399,6 +2608,19 @@
    "print"
   ],
   "description": "Instant camera shot + motor"
+ },
+ {
+  "name": "lens_zoom",
+  "category": "camera",
+  "file": "sounds/camera/lens_zoom.wav",
+  "duration": 0.8,
+  "channels": 1,
+  "tags": [
+   "lens",
+   "zoom",
+   "motor"
+  ],
+  "description": "Lens zoom motor"
  },
  {
   "name": "glitch_1",
@@ -3197,6 +3419,59 @@
   "description": "Comedy ba-dum-tss"
  },
  {
+  "name": "slip",
+  "category": "cartoon",
+  "file": "sounds/cartoon/slip.wav",
+  "duration": 0.65,
+  "channels": 1,
+  "tags": [
+   "slip",
+   "fall",
+   "funny"
+  ],
+  "description": "Banana slip and fall"
+ },
+ {
+  "name": "dizzy",
+  "category": "cartoon",
+  "file": "sounds/cartoon/dizzy.wav",
+  "duration": 2.091,
+  "channels": 2,
+  "tags": [
+   "dizzy",
+   "stars",
+   "knocked out"
+  ],
+  "description": "Dizzy circling stars"
+ },
+ {
+  "name": "honk_toy",
+  "category": "cartoon",
+  "file": "sounds/cartoon/honk_toy.wav",
+  "duration": 0.62,
+  "channels": 1,
+  "tags": [
+   "honk",
+   "clown",
+   "horn",
+   "funny"
+  ],
+  "description": "Clown horn honk-honk"
+ },
+ {
+  "name": "splat",
+  "category": "cartoon",
+  "file": "sounds/cartoon/splat.wav",
+  "duration": 0.443,
+  "channels": 2,
+  "tags": [
+   "splat",
+   "wet",
+   "gross"
+  ],
+  "description": "Wet splat"
+ },
+ {
   "name": "coin_8bit",
   "category": "retro",
   "file": "sounds/retro/coin_8bit.wav",
@@ -3777,6 +4052,20 @@
   "description": "Four metronome clicks (120 bpm)"
  },
  {
+  "name": "ticking_bomb",
+  "category": "timer",
+  "file": "sounds/timer/ticking_bomb.wav",
+  "duration": 3.302,
+  "channels": 1,
+  "tags": [
+   "bomb",
+   "tick",
+   "countdown",
+   "tension"
+  ],
+  "description": "Ticking bomb countdown"
+ },
+ {
   "name": "kick_1",
   "category": "drums",
   "file": "sounds/drums/kick_1.wav",
@@ -4210,6 +4499,255 @@
    "kitchen"
   ],
   "description": "Cup set down on a table"
+ },
+ {
+  "name": "doorbell",
+  "category": "foley",
+  "file": "sounds/foley/doorbell.wav",
+  "duration": 2.973,
+  "channels": 2,
+  "tags": [
+   "doorbell",
+   "ding-dong",
+   "visitor"
+  ],
+  "description": "Ding-dong doorbell"
+ },
+ {
+  "name": "school_bell",
+  "category": "foley",
+  "file": "sounds/foley/school_bell.wav",
+  "duration": 2.462,
+  "channels": 2,
+  "tags": [
+   "bell",
+   "school",
+   "ring"
+  ],
+  "description": "Electric school bell (2 s)"
+ },
+ {
+  "name": "bike_bell",
+  "category": "foley",
+  "file": "sounds/foley/bike_bell.wav",
+  "duration": 0.94,
+  "channels": 1,
+  "tags": [
+   "bike",
+   "bell",
+   "ring"
+  ],
+  "description": "Bicycle bell ring-ring"
+ },
+ {
+  "name": "car_horn_1",
+  "category": "foley",
+  "file": "sounds/foley/car_horn_1.wav",
+  "duration": 0.932,
+  "channels": 2,
+  "tags": [
+   "car",
+   "horn",
+   "honk",
+   "traffic"
+  ],
+  "description": "Car horn honk"
+ },
+ {
+  "name": "car_horn_2",
+  "category": "foley",
+  "file": "sounds/foley/car_horn_2.wav",
+  "duration": 0.904,
+  "channels": 2,
+  "tags": [
+   "car",
+   "horn",
+   "beep beep"
+  ],
+  "description": "Double car honk"
+ },
+ {
+  "name": "elevator_ding",
+  "category": "foley",
+  "file": "sounds/foley/elevator_ding.wav",
+  "duration": 2.551,
+  "channels": 2,
+  "tags": [
+   "elevator",
+   "ding",
+   "arrive"
+  ],
+  "description": "Elevator arrival ding"
+ },
+ {
+  "name": "referee_whistle",
+  "category": "foley",
+  "file": "sounds/foley/referee_whistle.wav",
+  "duration": 0.98,
+  "channels": 1,
+  "tags": [
+   "whistle",
+   "referee",
+   "stop"
+  ],
+  "description": "Referee whistle"
+ },
+ {
+  "name": "kiss",
+  "category": "foley",
+  "file": "sounds/foley/kiss.wav",
+  "duration": 0.17,
+  "channels": 1,
+  "tags": [
+   "kiss",
+   "smooch",
+   "love"
+  ],
+  "description": "Kiss / smooch"
+ },
+ {
+  "name": "slap",
+  "category": "foley",
+  "file": "sounds/foley/slap.wav",
+  "duration": 0.359,
+  "channels": 2,
+  "tags": [
+   "slap",
+   "hit",
+   "funny"
+  ],
+  "description": "Face slap"
+ },
+ {
+  "name": "bubble_wrap",
+  "category": "foley",
+  "file": "sounds/foley/bubble_wrap.wav",
+  "duration": 0.911,
+  "channels": 1,
+  "tags": [
+   "bubble wrap",
+   "pop",
+   "satisfying"
+  ],
+  "description": "Bubble wrap popping"
+ },
+ {
+  "name": "alarm_clock",
+  "category": "foley",
+  "file": "sounds/foley/alarm_clock.wav",
+  "duration": 2.558,
+  "channels": 1,
+  "tags": [
+   "alarm",
+   "clock",
+   "wake up"
+  ],
+  "description": "Mechanical alarm clock ringing"
+ },
+ {
+  "name": "glass_break",
+  "category": "foley",
+  "file": "sounds/foley/glass_break.wav",
+  "duration": 1.355,
+  "channels": 2,
+  "tags": [
+   "glass",
+   "break",
+   "shatter"
+  ],
+  "description": "Glass breaking"
+ },
+ {
+  "name": "door_slam",
+  "category": "foley",
+  "file": "sounds/foley/door_slam.wav",
+  "duration": 0.992,
+  "channels": 2,
+  "tags": [
+   "door",
+   "slam",
+   "angry"
+  ],
+  "description": "Door slam"
+ },
+ {
+  "name": "keys_jingle",
+  "category": "foley",
+  "file": "sounds/foley/keys_jingle.wav",
+  "duration": 0.793,
+  "channels": 2,
+  "tags": [
+   "keys",
+   "jingle",
+   "metal"
+  ],
+  "description": "Keys jingling"
+ },
+ {
+  "name": "phone_dial",
+  "category": "foley",
+  "file": "sounds/foley/phone_dial.wav",
+  "duration": 1.06,
+  "channels": 1,
+  "tags": [
+   "phone",
+   "dial",
+   "keypad"
+  ],
+  "description": "Phone keypad dialing tones"
+ },
+ {
+  "name": "phone_busy",
+  "category": "foley",
+  "file": "sounds/foley/phone_busy.wav",
+  "duration": 2.5,
+  "channels": 1,
+  "tags": [
+   "phone",
+   "busy",
+   "hang up"
+  ],
+  "description": "Busy / hang-up tone"
+ },
+ {
+  "name": "vinyl_crackle",
+  "category": "foley",
+  "file": "sounds/foley/vinyl_crackle.wav",
+  "duration": 3.975,
+  "channels": 2,
+  "tags": [
+   "vinyl",
+   "crackle",
+   "retro",
+   "lofi"
+  ],
+  "description": "Vinyl record crackle (4 s)"
+ },
+ {
+  "name": "receipt_print",
+  "category": "foley",
+  "file": "sounds/foley/receipt_print.wav",
+  "duration": 1.3,
+  "channels": 1,
+  "tags": [
+   "printer",
+   "receipt",
+   "pos"
+  ],
+  "description": "Receipt printer"
+ },
+ {
+  "name": "body_fall",
+  "category": "foley",
+  "file": "sounds/foley/body_fall.wav",
+  "duration": 0.919,
+  "channels": 2,
+  "tags": [
+   "fall",
+   "thud",
+   "body"
+  ],
+  "description": "Body falling to the floor"
  },
  {
   "name": "wind_1",
