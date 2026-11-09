@@ -1,0 +1,4 @@
+audition/ALL.mp3
+audition/ALL_index.txt
+__pycache__/
+*.tmp.wav

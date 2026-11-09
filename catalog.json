@@ -1,0 +1,4370 @@
+[
+ {
+  "name": "whoosh_fast_1",
+  "category": "whoosh",
+  "file": "sounds/whoosh/whoosh_fast_1.wav",
+  "duration": 0.282,
+  "channels": 2,
+  "tags": [
+   "fast",
+   "cut",
+   "transition"
+  ],
+  "description": "Quick air pass for fast cuts"
+ },
+ {
+  "name": "whoosh_fast_2",
+  "category": "whoosh",
+  "file": "sounds/whoosh/whoosh_fast_2.wav",
+  "duration": 0.317,
+  "channels": 2,
+  "tags": [
+   "fast",
+   "cut",
+   "transition"
+  ],
+  "description": "Quick air pass for fast cuts"
+ },
+ {
+  "name": "whoosh_fast_3",
+  "category": "whoosh",
+  "file": "sounds/whoosh/whoosh_fast_3.wav",
+  "duration": 0.358,
+  "channels": 2,
+  "tags": [
+   "fast",
+   "cut",
+   "transition"
+  ],
+  "description": "Quick air pass for fast cuts"
+ },
+ {
+  "name": "whoosh_fast_4",
+  "category": "whoosh",
+  "file": "sounds/whoosh/whoosh_fast_4.wav",
+  "duration": 0.233,
+  "channels": 2,
+  "tags": [
+   "fast",
+   "cut",
+   "transition"
+  ],
+  "description": "Quick air pass for fast cuts"
+ },
+ {
+  "name": "whoosh_soft_1",
+  "category": "whoosh",
+  "file": "sounds/whoosh/whoosh_soft_1.wav",
+  "duration": 0.66,
+  "channels": 2,
+  "tags": [
+   "soft",
+   "smooth",
+   "calm"
+  ],
+  "description": "Gentle, smooth whoosh"
+ },
+ {
+  "name": "whoosh_soft_2",
+  "category": "whoosh",
+  "file": "sounds/whoosh/whoosh_soft_2.wav",
+  "duration": 0.798,
+  "channels": 2,
+  "tags": [
+   "soft",
+   "smooth",
+   "calm"
+  ],
+  "description": "Gentle, smooth whoosh"
+ },
+ {
+  "name": "whoosh_soft_3",
+  "category": "whoosh",
+  "file": "sounds/whoosh/whoosh_soft_3.wav",
+  "duration": 0.558,
+  "channels": 2,
+  "tags": [
+   "soft",
+   "smooth",
+   "calm"
+  ],
+  "description": "Gentle, smooth whoosh"
+ },
+ {
+  "name": "whoosh_big_1",
+  "category": "whoosh",
+  "file": "sounds/whoosh/whoosh_big_1.wav",
+  "duration": 1.634,
+  "channels": 2,
+  "tags": [
+   "big",
+   "heavy",
+   "cinematic"
+  ],
+  "description": "Heavy, wide whoosh with low end and tail"
+ },
+ {
+  "name": "whoosh_big_2",
+  "category": "whoosh",
+  "file": "sounds/whoosh/whoosh_big_2.wav",
+  "duration": 2.021,
+  "channels": 2,
+  "tags": [
+   "big",
+   "heavy",
+   "cinematic"
+  ],
+  "description": "Heavy, wide whoosh with low end and tail"
+ },
+ {
+  "name": "whoosh_big_3",
+  "category": "whoosh",
+  "file": "sounds/whoosh/whoosh_big_3.wav",
+  "duration": 2.441,
+  "channels": 2,
+  "tags": [
+   "big",
+   "heavy",
+   "cinematic"
+  ],
+  "description": "Heavy, wide whoosh with low end and tail"
+ },
+ {
+  "name": "whoosh_low_1",
+  "category": "whoosh",
+  "file": "sounds/whoosh/whoosh_low_1.wav",
+  "duration": 1.196,
+  "channels": 2,
+  "tags": [
+   "low",
+   "deep",
+   "bass"
+  ],
+  "description": "Deep rumbling pass"
+ },
+ {
+  "name": "whoosh_low_2",
+  "category": "whoosh",
+  "file": "sounds/whoosh/whoosh_low_2.wav",
+  "duration": 1.354,
+  "channels": 2,
+  "tags": [
+   "low",
+   "deep",
+   "bass"
+  ],
+  "description": "Deep rumbling pass"
+ },
+ {
+  "name": "whoosh_air_1",
+  "category": "whoosh",
+  "file": "sounds/whoosh/whoosh_air_1.wav",
+  "duration": 0.477,
+  "channels": 2,
+  "tags": [
+   "air",
+   "bright",
+   "light"
+  ],
+  "description": "Bright airy whoosh"
+ },
+ {
+  "name": "whoosh_air_2",
+  "category": "whoosh",
+  "file": "sounds/whoosh/whoosh_air_2.wav",
+  "duration": 0.575,
+  "channels": 2,
+  "tags": [
+   "air",
+   "bright",
+   "light"
+  ],
+  "description": "Bright airy whoosh"
+ },
+ {
+  "name": "whoosh_flyby_1",
+  "category": "whoosh",
+  "file": "sounds/whoosh/whoosh_flyby_1.wav",
+  "duration": 1.158,
+  "channels": 2,
+  "tags": [
+   "flyby",
+   "pan",
+   "pass"
+  ],
+  "description": "Fly-by that pans across the stereo field"
+ },
+ {
+  "name": "whoosh_flyby_2",
+  "category": "whoosh",
+  "file": "sounds/whoosh/whoosh_flyby_2.wav",
+  "duration": 1.14,
+  "channels": 2,
+  "tags": [
+   "flyby",
+   "pan",
+   "pass"
+  ],
+  "description": "Fly-by that pans across the stereo field"
+ },
+ {
+  "name": "whoosh_double",
+  "category": "whoosh",
+  "file": "sounds/whoosh/whoosh_double.wav",
+  "duration": 0.454,
+  "channels": 2,
+  "tags": [
+   "double",
+   "fast"
+  ],
+  "description": "Two quick passes back to back"
+ },
+ {
+  "name": "whoosh_reverse_1",
+  "category": "whoosh",
+  "file": "sounds/whoosh/whoosh_reverse_1.wav",
+  "duration": 0.989,
+  "channels": 2,
+  "tags": [
+   "reverse",
+   "swell",
+   "build"
+  ],
+  "description": "Reverse swell that sucks into the cut"
+ },
+ {
+  "name": "whoosh_reverse_2",
+  "category": "whoosh",
+  "file": "sounds/whoosh/whoosh_reverse_2.wav",
+  "duration": 1.539,
+  "channels": 2,
+  "tags": [
+   "reverse",
+   "swell",
+   "build"
+  ],
+  "description": "Reverse swell that sucks into the cut"
+ },
+ {
+  "name": "whoosh_sweep_up",
+  "category": "whoosh",
+  "file": "sounds/whoosh/whoosh_sweep_up.wav",
+  "duration": 1.001,
+  "channels": 2,
+  "tags": [
+   "rise",
+   "up"
+  ],
+  "description": "Whoosh that rises in pitch"
+ },
+ {
+  "name": "swish_whip_1",
+  "category": "swish",
+  "file": "sounds/swish/swish_whip_1.wav",
+  "duration": 0.124,
+  "channels": 1,
+  "tags": [
+   "whip",
+   "fast",
+   "snap"
+  ],
+  "description": "Very fast whip swish"
+ },
+ {
+  "name": "swish_whip_2",
+  "category": "swish",
+  "file": "sounds/swish/swish_whip_2.wav",
+  "duration": 0.147,
+  "channels": 1,
+  "tags": [
+   "whip",
+   "fast",
+   "snap"
+  ],
+  "description": "Very fast whip swish"
+ },
+ {
+  "name": "swish_whip_3",
+  "category": "swish",
+  "file": "sounds/swish/swish_whip_3.wav",
+  "duration": 0.124,
+  "channels": 1,
+  "tags": [
+   "whip",
+   "fast",
+   "snap"
+  ],
+  "description": "Very fast whip swish"
+ },
+ {
+  "name": "swish_cloth_1",
+  "category": "swish",
+  "file": "sounds/swish/swish_cloth_1.wav",
+  "duration": 0.345,
+  "channels": 1,
+  "tags": [
+   "cloth",
+   "fabric",
+   "foley"
+  ],
+  "description": "Fabric / jacket swish"
+ },
+ {
+  "name": "swish_cloth_2",
+  "category": "swish",
+  "file": "sounds/swish/swish_cloth_2.wav",
+  "duration": 0.493,
+  "channels": 1,
+  "tags": [
+   "cloth",
+   "fabric",
+   "foley"
+  ],
+  "description": "Fabric / jacket swish"
+ },
+ {
+  "name": "swish_sword_1",
+  "category": "swish",
+  "file": "sounds/swish/swish_sword_1.wav",
+  "duration": 0.295,
+  "channels": 1,
+  "tags": [
+   "sword",
+   "slice",
+   "blade"
+  ],
+  "description": "Sharp blade slice"
+ },
+ {
+  "name": "swish_sword_2",
+  "category": "swish",
+  "file": "sounds/swish/swish_sword_2.wav",
+  "duration": 1.338,
+  "channels": 1,
+  "tags": [
+   "sword",
+   "slice",
+   "blade"
+  ],
+  "description": "Sharp blade slice with metal ring"
+ },
+ {
+  "name": "swish_stick",
+  "category": "swish",
+  "file": "sounds/swish/swish_stick.wav",
+  "duration": 0.289,
+  "channels": 1,
+  "tags": [
+   "stick",
+   "swing",
+   "whistle"
+  ],
+  "description": "Thin stick swing with a whistle"
+ },
+ {
+  "name": "swipe_1",
+  "category": "transition",
+  "file": "sounds/transition/swipe_1.wav",
+  "duration": 0.193,
+  "channels": 2,
+  "tags": [
+   "swipe",
+   "ui",
+   "phone"
+  ],
+  "description": "Phone-style screen swipe"
+ },
+ {
+  "name": "swipe_2",
+  "category": "transition",
+  "file": "sounds/transition/swipe_2.wav",
+  "duration": 0.194,
+  "channels": 2,
+  "tags": [
+   "swipe",
+   "ui",
+   "phone"
+  ],
+  "description": "Phone-style screen swipe"
+ },
+ {
+  "name": "swipe_3",
+  "category": "transition",
+  "file": "sounds/transition/swipe_3.wav",
+  "duration": 0.195,
+  "channels": 1,
+  "tags": [
+   "swipe",
+   "ui",
+   "phone"
+  ],
+  "description": "Phone-style screen swipe"
+ },
+ {
+  "name": "slide_in",
+  "category": "transition",
+  "file": "sounds/transition/slide_in.wav",
+  "duration": 0.377,
+  "channels": 2,
+  "tags": [
+   "slide",
+   "in",
+   "ui"
+  ],
+  "description": "Smooth slide in (rising)"
+ },
+ {
+  "name": "slide_out",
+  "category": "transition",
+  "file": "sounds/transition/slide_out.wav",
+  "duration": 0.377,
+  "channels": 2,
+  "tags": [
+   "slide",
+   "out",
+   "ui"
+  ],
+  "description": "Smooth slide out (falling)"
+ },
+ {
+  "name": "zoom_in_1",
+  "category": "transition",
+  "file": "sounds/transition/zoom_in_1.wav",
+  "duration": 0.947,
+  "channels": 2,
+  "tags": [
+   "zoom",
+   "in",
+   "rise"
+  ],
+  "description": "Rising zoom-in sweep"
+ },
+ {
+  "name": "zoom_in_2",
+  "category": "transition",
+  "file": "sounds/transition/zoom_in_2.wav",
+  "duration": 0.834,
+  "channels": 2,
+  "tags": [
+   "zoom",
+   "in",
+   "click"
+  ],
+  "description": "Zoom-in sweep that ends on a click"
+ },
+ {
+  "name": "zoom_out_1",
+  "category": "transition",
+  "file": "sounds/transition/zoom_out_1.wav",
+  "duration": 0.919,
+  "channels": 2,
+  "tags": [
+   "zoom",
+   "out",
+   "fall"
+  ],
+  "description": "Falling zoom-out sweep"
+ },
+ {
+  "name": "zoom_out_2",
+  "category": "transition",
+  "file": "sounds/transition/zoom_out_2.wav",
+  "duration": 0.746,
+  "channels": 2,
+  "tags": [
+   "zoom",
+   "out"
+  ],
+  "description": "Short zoom-out sweep"
+ },
+ {
+  "name": "whoosh_hit_1",
+  "category": "transition",
+  "file": "sounds/transition/whoosh_hit_1.wav",
+  "duration": 1.339,
+  "channels": 2,
+  "tags": [
+   "whoosh",
+   "hit",
+   "impact",
+   "transition"
+  ],
+  "description": "Whoosh that lands on a hit"
+ },
+ {
+  "name": "whoosh_hit_2",
+  "category": "transition",
+  "file": "sounds/transition/whoosh_hit_2.wav",
+  "duration": 1.415,
+  "channels": 2,
+  "tags": [
+   "whoosh",
+   "hit",
+   "impact",
+   "transition"
+  ],
+  "description": "Whoosh that lands on a hit"
+ },
+ {
+  "name": "whoosh_hit_3",
+  "category": "transition",
+  "file": "sounds/transition/whoosh_hit_3.wav",
+  "duration": 1.226,
+  "channels": 2,
+  "tags": [
+   "whoosh",
+   "hit",
+   "impact",
+   "transition"
+  ],
+  "description": "Whoosh that lands on a hit"
+ },
+ {
+  "name": "glide_up",
+  "category": "transition",
+  "file": "sounds/transition/glide_up.wav",
+  "duration": 1.148,
+  "channels": 2,
+  "tags": [
+   "glide",
+   "up",
+   "smooth"
+  ],
+  "description": "Soft tonal glide up"
+ },
+ {
+  "name": "glide_down",
+  "category": "transition",
+  "file": "sounds/transition/glide_down.wav",
+  "duration": 1.145,
+  "channels": 2,
+  "tags": [
+   "glide",
+   "down",
+   "smooth"
+  ],
+  "description": "Soft tonal glide down"
+ },
+ {
+  "name": "warp",
+  "category": "transition",
+  "file": "sounds/transition/warp.wav",
+  "duration": 1.348,
+  "channels": 2,
+  "tags": [
+   "warp",
+   "jet",
+   "flanger"
+  ],
+  "description": "Jet / flanger warp transition"
+ },
+ {
+  "name": "spin",
+  "category": "transition",
+  "file": "sounds/transition/spin.wav",
+  "duration": 0.74,
+  "channels": 2,
+  "tags": [
+   "spin",
+   "rotate",
+   "flutter"
+  ],
+  "description": "Spinning whoosh with a rotating flutter"
+ },
+ {
+  "name": "swoosh_tape",
+  "category": "transition",
+  "file": "sounds/transition/swoosh_tape.wav",
+  "duration": 0.6,
+  "channels": 1,
+  "tags": [
+   "tape",
+   "stop",
+   "down"
+  ],
+  "description": "Tape-stop style downward swoosh"
+ },
+ {
+  "name": "swoosh_rise",
+  "category": "transition",
+  "file": "sounds/transition/swoosh_rise.wav",
+  "duration": 0.413,
+  "channels": 2,
+  "tags": [
+   "rise",
+   "swoosh",
+   "up"
+  ],
+  "description": "Short rising swoosh into the next shot"
+ },
+ {
+  "name": "riser_short_1",
+  "category": "riser",
+  "file": "sounds/riser/riser_short_1.wav",
+  "duration": 0.924,
+  "channels": 2,
+  "tags": [
+   "riser",
+   "build",
+   "short"
+  ],
+  "description": "One-second build into a cut"
+ },
+ {
+  "name": "riser_short_2",
+  "category": "riser",
+  "file": "sounds/riser/riser_short_2.wav",
+  "duration": 1.368,
+  "channels": 2,
+  "tags": [
+   "riser",
+   "build",
+   "pulse"
+  ],
+  "description": "1.5 s build with pulse"
+ },
+ {
+  "name": "riser_long_1",
+  "category": "riser",
+  "file": "sounds/riser/riser_long_1.wav",
+  "duration": 3.707,
+  "channels": 2,
+  "tags": [
+   "riser",
+   "long",
+   "tension"
+  ],
+  "description": "Three-second tension build"
+ },
+ {
+  "name": "riser_long_2",
+  "category": "riser",
+  "file": "sounds/riser/riser_long_2.wav",
+  "duration": 4.875,
+  "channels": 2,
+  "tags": [
+   "riser",
+   "long",
+   "epic"
+  ],
+  "description": "Four-second big build"
+ },
+ {
+  "name": "riser_noise_1",
+  "category": "riser",
+  "file": "sounds/riser/riser_noise_1.wav",
+  "duration": 2.599,
+  "channels": 2,
+  "tags": [
+   "riser",
+   "noise",
+   "sweep"
+  ],
+  "description": "Pure white-noise sweep up"
+ },
+ {
+  "name": "riser_noise_2",
+  "category": "riser",
+  "file": "sounds/riser/riser_noise_2.wav",
+  "duration": 3.562,
+  "channels": 2,
+  "tags": [
+   "riser",
+   "noise",
+   "sweep"
+  ],
+  "description": "Pure white-noise sweep up"
+ },
+ {
+  "name": "riser_tonal_1",
+  "category": "riser",
+  "file": "sounds/riser/riser_tonal_1.wav",
+  "duration": 2.795,
+  "channels": 2,
+  "tags": [
+   "riser",
+   "tonal",
+   "chord"
+  ],
+  "description": "Major chord rising an octave"
+ },
+ {
+  "name": "riser_tonal_2",
+  "category": "riser",
+  "file": "sounds/riser/riser_tonal_2.wav",
+  "duration": 2.341,
+  "channels": 2,
+  "tags": [
+   "riser",
+   "tonal",
+   "bright"
+  ],
+  "description": "Bright tonal rise"
+ },
+ {
+  "name": "swell_reverse_1",
+  "category": "riser",
+  "file": "sounds/riser/swell_reverse_1.wav",
+  "duration": 1.717,
+  "channels": 2,
+  "tags": [
+   "reverse",
+   "cymbal",
+   "swell"
+  ],
+  "description": "Reverse cymbal swell"
+ },
+ {
+  "name": "swell_reverse_2",
+  "category": "riser",
+  "file": "sounds/riser/swell_reverse_2.wav",
+  "duration": 2.54,
+  "channels": 2,
+  "tags": [
+   "reverse",
+   "cymbal",
+   "swell"
+  ],
+  "description": "Reverse cymbal swell"
+ },
+ {
+  "name": "downlifter_1",
+  "category": "riser",
+  "file": "sounds/riser/downlifter_1.wav",
+  "duration": 2.048,
+  "channels": 2,
+  "tags": [
+   "downlifter",
+   "fall",
+   "down"
+  ],
+  "description": "Falling sweep after a drop"
+ },
+ {
+  "name": "downlifter_2",
+  "category": "riser",
+  "file": "sounds/riser/downlifter_2.wav",
+  "duration": 3.069,
+  "channels": 2,
+  "tags": [
+   "downlifter",
+   "fall",
+   "long"
+  ],
+  "description": "Long falling sweep"
+ },
+ {
+  "name": "impact_1",
+  "category": "impact",
+  "file": "sounds/impact/impact_1.wav",
+  "duration": 1.567,
+  "channels": 2,
+  "tags": [
+   "impact",
+   "hit",
+   "punch"
+  ],
+  "description": "Solid impact hit"
+ },
+ {
+  "name": "impact_2",
+  "category": "impact",
+  "file": "sounds/impact/impact_2.wav",
+  "duration": 1.433,
+  "channels": 2,
+  "tags": [
+   "impact",
+   "hit",
+   "punch"
+  ],
+  "description": "Solid impact hit"
+ },
+ {
+  "name": "impact_3",
+  "category": "impact",
+  "file": "sounds/impact/impact_3.wav",
+  "duration": 1.734,
+  "channels": 2,
+  "tags": [
+   "impact",
+   "hit",
+   "punch"
+  ],
+  "description": "Solid impact hit"
+ },
+ {
+  "name": "impact_hard_1",
+  "category": "impact",
+  "file": "sounds/impact/impact_hard_1.wav",
+  "duration": 1.855,
+  "channels": 2,
+  "tags": [
+   "impact",
+   "hard",
+   "heavy"
+  ],
+  "description": "Hard distorted impact"
+ },
+ {
+  "name": "impact_hard_2",
+  "category": "impact",
+  "file": "sounds/impact/impact_hard_2.wav",
+  "duration": 1.782,
+  "channels": 2,
+  "tags": [
+   "impact",
+   "hard",
+   "heavy"
+  ],
+  "description": "Hard distorted impact"
+ },
+ {
+  "name": "boom_1",
+  "category": "impact",
+  "file": "sounds/impact/boom_1.wav",
+  "duration": 2.905,
+  "channels": 2,
+  "tags": [
+   "boom",
+   "bass",
+   "big"
+  ],
+  "description": "Deep boom"
+ },
+ {
+  "name": "boom_2",
+  "category": "impact",
+  "file": "sounds/impact/boom_2.wav",
+  "duration": 3.145,
+  "channels": 2,
+  "tags": [
+   "boom",
+   "bass",
+   "big"
+  ],
+  "description": "Deep boom"
+ },
+ {
+  "name": "boom_sub_1",
+  "category": "impact",
+  "file": "sounds/impact/boom_sub_1.wav",
+  "duration": 1.8,
+  "channels": 1,
+  "tags": [
+   "sub",
+   "bass",
+   "boom"
+  ],
+  "description": "Sub-bass boom (use good speakers)"
+ },
+ {
+  "name": "boom_sub_2",
+  "category": "impact",
+  "file": "sounds/impact/boom_sub_2.wav",
+  "duration": 1.8,
+  "channels": 1,
+  "tags": [
+   "sub",
+   "bass",
+   "boom"
+  ],
+  "description": "Sub-bass boom (use good speakers)"
+ },
+ {
+  "name": "bass_drop_1",
+  "category": "impact",
+  "file": "sounds/impact/bass_drop_1.wav",
+  "duration": 1.5,
+  "channels": 1,
+  "tags": [
+   "drop",
+   "bass",
+   "edm"
+  ],
+  "description": "Bass drop glide"
+ },
+ {
+  "name": "bass_drop_2",
+  "category": "impact",
+  "file": "sounds/impact/bass_drop_2.wav",
+  "duration": 2.2,
+  "channels": 1,
+  "tags": [
+   "drop",
+   "bass",
+   "edm"
+  ],
+  "description": "Bass drop glide"
+ },
+ {
+  "name": "punch_1",
+  "category": "impact",
+  "file": "sounds/impact/punch_1.wav",
+  "duration": 0.25,
+  "channels": 1,
+  "tags": [
+   "punch",
+   "fight",
+   "hit"
+  ],
+  "description": "Body punch"
+ },
+ {
+  "name": "punch_2",
+  "category": "impact",
+  "file": "sounds/impact/punch_2.wav",
+  "duration": 0.25,
+  "channels": 1,
+  "tags": [
+   "punch",
+   "fight",
+   "hit"
+  ],
+  "description": "Body punch"
+ },
+ {
+  "name": "punch_3",
+  "category": "impact",
+  "file": "sounds/impact/punch_3.wav",
+  "duration": 0.384,
+  "channels": 2,
+  "tags": [
+   "punch",
+   "fight",
+   "hit"
+  ],
+  "description": "Body punch with swing"
+ },
+ {
+  "name": "thud_1",
+  "category": "impact",
+  "file": "sounds/impact/thud_1.wav",
+  "duration": 0.4,
+  "channels": 1,
+  "tags": [
+   "thud",
+   "drop",
+   "low"
+  ],
+  "description": "Dull low thud"
+ },
+ {
+  "name": "thud_2",
+  "category": "impact",
+  "file": "sounds/impact/thud_2.wav",
+  "duration": 0.4,
+  "channels": 1,
+  "tags": [
+   "thud",
+   "drop",
+   "low"
+  ],
+  "description": "Dull low thud"
+ },
+ {
+  "name": "hit_metal_1",
+  "category": "impact",
+  "file": "sounds/impact/hit_metal_1.wav",
+  "duration": 1.825,
+  "channels": 2,
+  "tags": [
+   "metal",
+   "clang",
+   "hit"
+  ],
+  "description": "Metal clang"
+ },
+ {
+  "name": "hit_metal_2",
+  "category": "impact",
+  "file": "sounds/impact/hit_metal_2.wav",
+  "duration": 1.771,
+  "channels": 2,
+  "tags": [
+   "metal",
+   "clang",
+   "hit"
+  ],
+  "description": "Metal clang"
+ },
+ {
+  "name": "hit_cinematic_1",
+  "category": "impact",
+  "file": "sounds/impact/hit_cinematic_1.wav",
+  "duration": 3.787,
+  "channels": 2,
+  "tags": [
+   "cinematic",
+   "trailer",
+   "hit"
+  ],
+  "description": "Big trailer-style hit"
+ },
+ {
+  "name": "hit_cinematic_2",
+  "category": "impact",
+  "file": "sounds/impact/hit_cinematic_2.wav",
+  "duration": 4.103,
+  "channels": 2,
+  "tags": [
+   "cinematic",
+   "dark",
+   "hit"
+  ],
+  "description": "Darker cinematic hit"
+ },
+ {
+  "name": "explosion_1",
+  "category": "impact",
+  "file": "sounds/impact/explosion_1.wav",
+  "duration": 2.771,
+  "channels": 2,
+  "tags": [
+   "explosion",
+   "blast",
+   "boom"
+  ],
+  "description": "Explosion"
+ },
+ {
+  "name": "explosion_2",
+  "category": "impact",
+  "file": "sounds/impact/explosion_2.wav",
+  "duration": 2.952,
+  "channels": 2,
+  "tags": [
+   "explosion",
+   "distant"
+  ],
+  "description": "Distant explosion"
+ },
+ {
+  "name": "braam_1",
+  "category": "cinematic",
+  "file": "sounds/cinematic/braam_1.wav",
+  "duration": 4.018,
+  "channels": 2,
+  "tags": [
+   "braam",
+   "trailer",
+   "epic"
+  ],
+  "description": "Big brassy BRAAM"
+ },
+ {
+  "name": "braam_2",
+  "category": "cinematic",
+  "file": "sounds/cinematic/braam_2.wav",
+  "duration": 4.499,
+  "channels": 2,
+  "tags": [
+   "braam",
+   "dark",
+   "epic"
+  ],
+  "description": "Dark low BRAAM"
+ },
+ {
+  "name": "trailer_hit_1",
+  "category": "cinematic",
+  "file": "sounds/cinematic/trailer_hit_1.wav",
+  "duration": 4.367,
+  "channels": 2,
+  "tags": [
+   "trailer",
+   "whoosh",
+   "hit"
+  ],
+  "description": "Reverse swell into a trailer hit"
+ },
+ {
+  "name": "trailer_hit_2",
+  "category": "cinematic",
+  "file": "sounds/cinematic/trailer_hit_2.wav",
+  "duration": 4.349,
+  "channels": 2,
+  "tags": [
+   "trailer",
+   "whoosh",
+   "hit"
+  ],
+  "description": "Reverse swell into a trailer hit"
+ },
+ {
+  "name": "tension_drone_1",
+  "category": "cinematic",
+  "file": "sounds/cinematic/tension_drone_1.wav",
+  "duration": 4.997,
+  "channels": 2,
+  "tags": [
+   "drone",
+   "tension",
+   "suspense"
+  ],
+  "description": "Dark tension drone (4 s)"
+ },
+ {
+  "name": "tension_drone_2",
+  "category": "cinematic",
+  "file": "sounds/cinematic/tension_drone_2.wav",
+  "duration": 5.092,
+  "channels": 2,
+  "tags": [
+   "drone",
+   "tension",
+   "horror"
+  ],
+  "description": "Uneasy higher drone (4 s)"
+ },
+ {
+  "name": "heartbeat",
+  "category": "cinematic",
+  "file": "sounds/cinematic/heartbeat.wav",
+  "duration": 2.15,
+  "channels": 1,
+  "tags": [
+   "heartbeat",
+   "suspense",
+   "pulse"
+  ],
+  "description": "Heartbeat (lub-dub x3)"
+ },
+ {
+  "name": "suspense_sting",
+  "category": "cinematic",
+  "file": "sounds/cinematic/suspense_sting.wav",
+  "duration": 2.48,
+  "channels": 2,
+  "tags": [
+   "sting",
+   "suspense",
+   "scare"
+  ],
+  "description": "Sudden high string-like sting"
+ },
+ {
+  "name": "tail_reverb",
+  "category": "cinematic",
+  "file": "sounds/cinematic/tail_reverb.wav",
+  "duration": 3.278,
+  "channels": 2,
+  "tags": [
+   "tail",
+   "reverb",
+   "impact"
+  ],
+  "description": "Impact with long reverb tail"
+ },
+ {
+  "name": "rumble",
+  "category": "cinematic",
+  "file": "sounds/cinematic/rumble.wav",
+  "duration": 2.988,
+  "channels": 1,
+  "tags": [
+   "rumble",
+   "earthquake",
+   "low"
+  ],
+  "description": "Low rumble (3 s)"
+ },
+ {
+  "name": "slow_motion",
+  "category": "cinematic",
+  "file": "sounds/cinematic/slow_motion.wav",
+  "duration": 2.2,
+  "channels": 2,
+  "tags": [
+   "slowmo",
+   "slow",
+   "down"
+  ],
+  "description": "Slow-motion whoosh down"
+ },
+ {
+  "name": "pop_1",
+  "category": "pop",
+  "file": "sounds/pop/pop_1.wav",
+  "duration": 0.13,
+  "channels": 1,
+  "tags": [
+   "pop",
+   "sticker",
+   "text"
+  ],
+  "description": "Clean pop for text and stickers"
+ },
+ {
+  "name": "pop_2",
+  "category": "pop",
+  "file": "sounds/pop/pop_2.wav",
+  "duration": 0.13,
+  "channels": 1,
+  "tags": [
+   "pop",
+   "sticker",
+   "text"
+  ],
+  "description": "Clean pop for text and stickers"
+ },
+ {
+  "name": "pop_3",
+  "category": "pop",
+  "file": "sounds/pop/pop_3.wav",
+  "duration": 0.13,
+  "channels": 1,
+  "tags": [
+   "pop",
+   "sticker",
+   "text"
+  ],
+  "description": "Clean pop for text and stickers"
+ },
+ {
+  "name": "pop_4",
+  "category": "pop",
+  "file": "sounds/pop/pop_4.wav",
+  "duration": 0.13,
+  "channels": 1,
+  "tags": [
+   "pop",
+   "sticker",
+   "text"
+  ],
+  "description": "Clean pop for text and stickers"
+ },
+ {
+  "name": "pop_bubble_1",
+  "category": "pop",
+  "file": "sounds/pop/pop_bubble_1.wav",
+  "duration": 0.12,
+  "channels": 1,
+  "tags": [
+   "bubble",
+   "pop",
+   "cute"
+  ],
+  "description": "Bubble pop (rising chirp)"
+ },
+ {
+  "name": "pop_bubble_2",
+  "category": "pop",
+  "file": "sounds/pop/pop_bubble_2.wav",
+  "duration": 0.12,
+  "channels": 1,
+  "tags": [
+   "bubble",
+   "pop",
+   "cute"
+  ],
+  "description": "Bubble pop (rising chirp)"
+ },
+ {
+  "name": "pop_bubble_3",
+  "category": "pop",
+  "file": "sounds/pop/pop_bubble_3.wav",
+  "duration": 0.12,
+  "channels": 1,
+  "tags": [
+   "bubble",
+   "pop",
+   "cute"
+  ],
+  "description": "Bubble pop (rising chirp)"
+ },
+ {
+  "name": "pop_cork",
+  "category": "pop",
+  "file": "sounds/pop/pop_cork.wav",
+  "duration": 0.25,
+  "channels": 1,
+  "tags": [
+   "cork",
+   "bottle",
+   "pop"
+  ],
+  "description": "Cork / bottle pop"
+ },
+ {
+  "name": "pop_soft_1",
+  "category": "pop",
+  "file": "sounds/pop/pop_soft_1.wav",
+  "duration": 0.14,
+  "channels": 1,
+  "tags": [
+   "soft",
+   "pop",
+   "subtle"
+  ],
+  "description": "Soft muted pop"
+ },
+ {
+  "name": "pop_soft_2",
+  "category": "pop",
+  "file": "sounds/pop/pop_soft_2.wav",
+  "duration": 0.14,
+  "channels": 1,
+  "tags": [
+   "soft",
+   "pop",
+   "subtle"
+  ],
+  "description": "Soft muted pop"
+ },
+ {
+  "name": "pop_high",
+  "category": "pop",
+  "file": "sounds/pop/pop_high.wav",
+  "duration": 0.09,
+  "channels": 1,
+  "tags": [
+   "high",
+   "bright",
+   "pop"
+  ],
+  "description": "High, bright pop"
+ },
+ {
+  "name": "bloop_1",
+  "category": "pop",
+  "file": "sounds/pop/bloop_1.wav",
+  "duration": 0.2,
+  "channels": 1,
+  "tags": [
+   "bloop",
+   "water",
+   "cute"
+  ],
+  "description": "Watery bloop"
+ },
+ {
+  "name": "bloop_2",
+  "category": "pop",
+  "file": "sounds/pop/bloop_2.wav",
+  "duration": 0.16,
+  "channels": 1,
+  "tags": [
+   "bloop",
+   "water",
+   "cute"
+  ],
+  "description": "Watery bloop"
+ },
+ {
+  "name": "pop_mouth",
+  "category": "pop",
+  "file": "sounds/pop/pop_mouth.wav",
+  "duration": 0.07,
+  "channels": 1,
+  "tags": [
+   "mouth",
+   "lip",
+   "pop"
+  ],
+  "description": "Mouth / lip pop"
+ },
+ {
+  "name": "pop_double",
+  "category": "pop",
+  "file": "sounds/pop/pop_double.wav",
+  "duration": 0.21,
+  "channels": 1,
+  "tags": [
+   "double",
+   "pop"
+  ],
+  "description": "Two quick pops"
+ },
+ {
+  "name": "click_1",
+  "category": "ui",
+  "file": "sounds/ui/click_1.wav",
+  "duration": 0.036,
+  "channels": 1,
+  "tags": [
+   "click",
+   "ui",
+   "button"
+  ],
+  "description": "Crisp UI click"
+ },
+ {
+  "name": "click_2",
+  "category": "ui",
+  "file": "sounds/ui/click_2.wav",
+  "duration": 0.042,
+  "channels": 1,
+  "tags": [
+   "click",
+   "ui",
+   "button"
+  ],
+  "description": "Crisp UI click"
+ },
+ {
+  "name": "click_3",
+  "category": "ui",
+  "file": "sounds/ui/click_3.wav",
+  "duration": 0.033,
+  "channels": 1,
+  "tags": [
+   "click",
+   "ui",
+   "button"
+  ],
+  "description": "Crisp UI click"
+ },
+ {
+  "name": "click_4",
+  "category": "ui",
+  "file": "sounds/ui/click_4.wav",
+  "duration": 0.044,
+  "channels": 1,
+  "tags": [
+   "click",
+   "ui",
+   "button"
+  ],
+  "description": "Crisp UI click"
+ },
+ {
+  "name": "click_soft_1",
+  "category": "ui",
+  "file": "sounds/ui/click_soft_1.wav",
+  "duration": 0.054,
+  "channels": 1,
+  "tags": [
+   "click",
+   "soft",
+   "ui"
+  ],
+  "description": "Soft muted click"
+ },
+ {
+  "name": "click_soft_2",
+  "category": "ui",
+  "file": "sounds/ui/click_soft_2.wav",
+  "duration": 0.05,
+  "channels": 1,
+  "tags": [
+   "click",
+   "soft",
+   "ui"
+  ],
+  "description": "Soft muted click"
+ },
+ {
+  "name": "click_mouse",
+  "category": "ui",
+  "file": "sounds/ui/click_mouse.wav",
+  "duration": 0.101,
+  "channels": 1,
+  "tags": [
+   "mouse",
+   "click",
+   "computer"
+  ],
+  "description": "Mouse click (press + release)"
+ },
+ {
+  "name": "tap_1",
+  "category": "ui",
+  "file": "sounds/ui/tap_1.wav",
+  "duration": 0.08,
+  "channels": 1,
+  "tags": [
+   "tap",
+   "touch",
+   "phone"
+  ],
+  "description": "Finger tap on glass"
+ },
+ {
+  "name": "tap_2",
+  "category": "ui",
+  "file": "sounds/ui/tap_2.wav",
+  "duration": 0.08,
+  "channels": 1,
+  "tags": [
+   "tap",
+   "touch",
+   "phone"
+  ],
+  "description": "Finger tap on glass"
+ },
+ {
+  "name": "tap_3",
+  "category": "ui",
+  "file": "sounds/ui/tap_3.wav",
+  "duration": 0.08,
+  "channels": 1,
+  "tags": [
+   "tap",
+   "touch",
+   "phone"
+  ],
+  "description": "Finger tap on glass"
+ },
+ {
+  "name": "toggle_on",
+  "category": "ui",
+  "file": "sounds/ui/toggle_on.wav",
+  "duration": 0.12,
+  "channels": 1,
+  "tags": [
+   "toggle",
+   "on",
+   "switch"
+  ],
+  "description": "Switch on (up blip)"
+ },
+ {
+  "name": "toggle_off",
+  "category": "ui",
+  "file": "sounds/ui/toggle_off.wav",
+  "duration": 0.12,
+  "channels": 1,
+  "tags": [
+   "toggle",
+   "off",
+   "switch"
+  ],
+  "description": "Switch off (down blip)"
+ },
+ {
+  "name": "blip_1",
+  "category": "ui",
+  "file": "sounds/ui/blip_1.wav",
+  "duration": 0.08,
+  "channels": 1,
+  "tags": [
+   "blip",
+   "beep",
+   "ui"
+  ],
+  "description": "Short digital blip"
+ },
+ {
+  "name": "blip_2",
+  "category": "ui",
+  "file": "sounds/ui/blip_2.wav",
+  "duration": 0.08,
+  "channels": 1,
+  "tags": [
+   "blip",
+   "beep",
+   "ui"
+  ],
+  "description": "Short digital blip"
+ },
+ {
+  "name": "blip_3",
+  "category": "ui",
+  "file": "sounds/ui/blip_3.wav",
+  "duration": 0.08,
+  "channels": 1,
+  "tags": [
+   "blip",
+   "beep",
+   "ui"
+  ],
+  "description": "Short digital blip"
+ },
+ {
+  "name": "blip_up",
+  "category": "ui",
+  "file": "sounds/ui/blip_up.wav",
+  "duration": 0.09,
+  "channels": 1,
+  "tags": [
+   "blip",
+   "up"
+  ],
+  "description": "Blip sliding up"
+ },
+ {
+  "name": "blip_down",
+  "category": "ui",
+  "file": "sounds/ui/blip_down.wav",
+  "duration": 0.09,
+  "channels": 1,
+  "tags": [
+   "blip",
+   "down"
+  ],
+  "description": "Blip sliding down"
+ },
+ {
+  "name": "blip_retro_1",
+  "category": "ui",
+  "file": "sounds/ui/blip_retro_1.wav",
+  "duration": 0.07,
+  "channels": 1,
+  "tags": [
+   "retro",
+   "blip",
+   "square"
+  ],
+  "description": "Square-wave retro blip"
+ },
+ {
+  "name": "blip_retro_2",
+  "category": "ui",
+  "file": "sounds/ui/blip_retro_2.wav",
+  "duration": 0.11,
+  "channels": 1,
+  "tags": [
+   "retro",
+   "blip",
+   "square"
+  ],
+  "description": "Two-note retro blip"
+ },
+ {
+  "name": "ui_select",
+  "category": "ui",
+  "file": "sounds/ui/ui_select.wav",
+  "duration": 0.24,
+  "channels": 1,
+  "tags": [
+   "select",
+   "menu",
+   "ui"
+  ],
+  "description": "Pleasant select tone"
+ },
+ {
+  "name": "ui_back",
+  "category": "ui",
+  "file": "sounds/ui/ui_back.wav",
+  "duration": 0.24,
+  "channels": 1,
+  "tags": [
+   "back",
+   "close",
+   "ui"
+  ],
+  "description": "Back / close tone"
+ },
+ {
+  "name": "ui_hover",
+  "category": "ui",
+  "file": "sounds/ui/ui_hover.wav",
+  "duration": 0.035,
+  "channels": 1,
+  "tags": [
+   "hover",
+   "soft",
+   "ui"
+  ],
+  "description": "Very soft hover tick"
+ },
+ {
+  "name": "ui_confirm",
+  "category": "ui",
+  "file": "sounds/ui/ui_confirm.wav",
+  "duration": 0.42,
+  "channels": 1,
+  "tags": [
+   "confirm",
+   "ok",
+   "ui"
+  ],
+  "description": "Three-note confirm"
+ },
+ {
+  "name": "ui_cancel",
+  "category": "ui",
+  "file": "sounds/ui/ui_cancel.wav",
+  "duration": 0.19,
+  "channels": 1,
+  "tags": [
+   "cancel",
+   "no",
+   "ui"
+  ],
+  "description": "Low two-note cancel"
+ },
+ {
+  "name": "ding_1",
+  "category": "ding",
+  "file": "sounds/ding/ding_1.wav",
+  "duration": 1.462,
+  "channels": 2,
+  "tags": [
+   "ding",
+   "bell",
+   "notification"
+  ],
+  "description": "Clean bell ding"
+ },
+ {
+  "name": "ding_2",
+  "category": "ding",
+  "file": "sounds/ding/ding_2.wav",
+  "duration": 1.484,
+  "channels": 2,
+  "tags": [
+   "ding",
+   "bell",
+   "notification"
+  ],
+  "description": "Clean bell ding"
+ },
+ {
+  "name": "ding_3",
+  "category": "ding",
+  "file": "sounds/ding/ding_3.wav",
+  "duration": 1.453,
+  "channels": 2,
+  "tags": [
+   "ding",
+   "bell",
+   "notification"
+  ],
+  "description": "Clean bell ding"
+ },
+ {
+  "name": "ding_success",
+  "category": "ding",
+  "file": "sounds/ding/ding_success.wav",
+  "duration": 1.538,
+  "channels": 2,
+  "tags": [
+   "success",
+   "ding",
+   "correct"
+  ],
+  "description": "Two-note success ding"
+ },
+ {
+  "name": "chime_up_1",
+  "category": "ding",
+  "file": "sounds/ding/chime_up_1.wav",
+  "duration": 1.951,
+  "channels": 2,
+  "tags": [
+   "chime",
+   "up",
+   "magic"
+  ],
+  "description": "Rising bell arpeggio"
+ },
+ {
+  "name": "chime_up_2",
+  "category": "ding",
+  "file": "sounds/ding/chime_up_2.wav",
+  "duration": 2.028,
+  "channels": 2,
+  "tags": [
+   "chime",
+   "up",
+   "magic"
+  ],
+  "description": "Rising bell arpeggio"
+ },
+ {
+  "name": "chime_down",
+  "category": "ding",
+  "file": "sounds/ding/chime_down.wav",
+  "duration": 2.078,
+  "channels": 2,
+  "tags": [
+   "chime",
+   "down"
+  ],
+  "description": "Falling bell arpeggio"
+ },
+ {
+  "name": "bell_small_1",
+  "category": "ding",
+  "file": "sounds/ding/bell_small_1.wav",
+  "duration": 2.198,
+  "channels": 2,
+  "tags": [
+   "bell",
+   "desk",
+   "service"
+  ],
+  "description": "Desk / service bell"
+ },
+ {
+  "name": "bell_small_2",
+  "category": "ding",
+  "file": "sounds/ding/bell_small_2.wav",
+  "duration": 2.162,
+  "channels": 2,
+  "tags": [
+   "bell",
+   "desk",
+   "service"
+  ],
+  "description": "Desk / service bell"
+ },
+ {
+  "name": "notif_1",
+  "category": "ding",
+  "file": "sounds/ding/notif_1.wav",
+  "duration": 0.791,
+  "channels": 2,
+  "tags": [
+   "notification",
+   "alert",
+   "phone"
+  ],
+  "description": "Phone-style notification"
+ },
+ {
+  "name": "notif_2",
+  "category": "ding",
+  "file": "sounds/ding/notif_2.wav",
+  "duration": 0.856,
+  "channels": 2,
+  "tags": [
+   "notification",
+   "alert",
+   "phone"
+  ],
+  "description": "Phone-style notification"
+ },
+ {
+  "name": "notif_3",
+  "category": "ding",
+  "file": "sounds/ding/notif_3.wav",
+  "duration": 0.801,
+  "channels": 2,
+  "tags": [
+   "notification",
+   "alert",
+   "phone"
+  ],
+  "description": "Phone-style notification"
+ },
+ {
+  "name": "notif_message_1",
+  "category": "ding",
+  "file": "sounds/ding/notif_message_1.wav",
+  "duration": 0.19,
+  "channels": 1,
+  "tags": [
+   "message",
+   "chat",
+   "notification"
+  ],
+  "description": "New message bubble"
+ },
+ {
+  "name": "notif_message_2",
+  "category": "ding",
+  "file": "sounds/ding/notif_message_2.wav",
+  "duration": 0.19,
+  "channels": 1,
+  "tags": [
+   "message",
+   "chat",
+   "notification"
+  ],
+  "description": "New message bubble"
+ },
+ {
+  "name": "level_up_1",
+  "category": "ding",
+  "file": "sounds/ding/level_up_1.wav",
+  "duration": 1.085,
+  "channels": 2,
+  "tags": [
+   "level",
+   "up",
+   "win",
+   "game"
+  ],
+  "description": "Fast level-up arpeggio"
+ },
+ {
+  "name": "level_up_2",
+  "category": "ding",
+  "file": "sounds/ding/level_up_2.wav",
+  "duration": 1.097,
+  "channels": 2,
+  "tags": [
+   "level",
+   "up",
+   "win",
+   "game"
+  ],
+  "description": "Fast level-up arpeggio"
+ },
+ {
+  "name": "like_pop",
+  "category": "social",
+  "file": "sounds/social/like_pop.wav",
+  "duration": 0.65,
+  "channels": 1,
+  "tags": [
+   "like",
+   "heart",
+   "social"
+  ],
+  "description": "Like / heart tap"
+ },
+ {
+  "name": "heart_pop",
+  "category": "social",
+  "file": "sounds/social/heart_pop.wav",
+  "duration": 0.88,
+  "channels": 2,
+  "tags": [
+   "heart",
+   "love",
+   "social"
+  ],
+  "description": "Heart burst with sparkle"
+ },
+ {
+  "name": "follow_ding",
+  "category": "social",
+  "file": "sounds/social/follow_ding.wav",
+  "duration": 1.165,
+  "channels": 2,
+  "tags": [
+   "follow",
+   "subscribe",
+   "social"
+  ],
+  "description": "Follow / subscribe ding"
+ },
+ {
+  "name": "comment_blip",
+  "category": "social",
+  "file": "sounds/social/comment_blip.wav",
+  "duration": 0.13,
+  "channels": 1,
+  "tags": [
+   "comment",
+   "blip",
+   "social"
+  ],
+  "description": "New comment double blip"
+ },
+ {
+  "name": "share_swoosh",
+  "category": "social",
+  "file": "sounds/social/share_swoosh.wav",
+  "duration": 0.256,
+  "channels": 1,
+  "tags": [
+   "share",
+   "send",
+   "social"
+  ],
+  "description": "Share: swoosh + blip"
+ },
+ {
+  "name": "message_sent",
+  "category": "social",
+  "file": "sounds/social/message_sent.wav",
+  "duration": 0.16,
+  "channels": 1,
+  "tags": [
+   "sent",
+   "message",
+   "chat"
+  ],
+  "description": "Message sent \"whoop\""
+ },
+ {
+  "name": "message_received",
+  "category": "social",
+  "file": "sounds/social/message_received.wav",
+  "duration": 0.706,
+  "channels": 2,
+  "tags": [
+   "received",
+   "message",
+   "chat"
+  ],
+  "description": "Message received pluck"
+ },
+ {
+  "name": "vibrate_1",
+  "category": "social",
+  "file": "sounds/social/vibrate_1.wav",
+  "duration": 0.95,
+  "channels": 1,
+  "tags": [
+   "vibrate",
+   "phone",
+   "buzz"
+  ],
+  "description": "Phone vibration buzz-buzz"
+ },
+ {
+  "name": "vibrate_2",
+  "category": "social",
+  "file": "sounds/social/vibrate_2.wav",
+  "duration": 0.25,
+  "channels": 1,
+  "tags": [
+   "vibrate",
+   "phone",
+   "short"
+  ],
+  "description": "Short single vibration"
+ },
+ {
+  "name": "ringtone",
+  "category": "social",
+  "file": "sounds/social/ringtone.wav",
+  "duration": 3.152,
+  "channels": 2,
+  "tags": [
+   "ringtone",
+   "phone",
+   "call"
+  ],
+  "description": "Original marimba ringtone"
+ },
+ {
+  "name": "notification_stack",
+  "category": "social",
+  "file": "sounds/social/notification_stack.wav",
+  "duration": 1.03,
+  "channels": 1,
+  "tags": [
+   "notification",
+   "many",
+   "viral"
+  ],
+  "description": "Several notifications in a row"
+ },
+ {
+  "name": "cash_register_1",
+  "category": "money",
+  "file": "sounds/money/cash_register_1.wav",
+  "duration": 1.624,
+  "channels": 2,
+  "tags": [
+   "cash",
+   "register",
+   "sale",
+   "money"
+  ],
+  "description": "Cash register \"ka-ching\""
+ },
+ {
+  "name": "cash_register_2",
+  "category": "money",
+  "file": "sounds/money/cash_register_2.wav",
+  "duration": 1.664,
+  "channels": 2,
+  "tags": [
+   "cash",
+   "register",
+   "sale",
+   "money"
+  ],
+  "description": "Cash register with double bell"
+ },
+ {
+  "name": "coin_1",
+  "category": "money",
+  "file": "sounds/money/coin_1.wav",
+  "duration": 0.7,
+  "channels": 1,
+  "tags": [
+   "coin",
+   "money",
+   "ping"
+  ],
+  "description": "Single coin ping"
+ },
+ {
+  "name": "coin_2",
+  "category": "money",
+  "file": "sounds/money/coin_2.wav",
+  "duration": 0.681,
+  "channels": 1,
+  "tags": [
+   "coin",
+   "drop",
+   "table"
+  ],
+  "description": "Coin dropping on a table"
+ },
+ {
+  "name": "coin_3",
+  "category": "money",
+  "file": "sounds/money/coin_3.wav",
+  "duration": 0.915,
+  "channels": 2,
+  "tags": [
+   "coin",
+   "collect",
+   "reward"
+  ],
+  "description": "Bright coin collect"
+ },
+ {
+  "name": "coins_drop_1",
+  "category": "money",
+  "file": "sounds/money/coins_drop_1.wav",
+  "duration": 1.091,
+  "channels": 2,
+  "tags": [
+   "coins",
+   "pour",
+   "money"
+  ],
+  "description": "Pile of coins pouring"
+ },
+ {
+  "name": "coins_drop_2",
+  "category": "money",
+  "file": "sounds/money/coins_drop_2.wav",
+  "duration": 1.505,
+  "channels": 2,
+  "tags": [
+   "coins",
+   "pour",
+   "money"
+  ],
+  "description": "Pile of coins pouring"
+ },
+ {
+  "name": "counter_roll_1",
+  "category": "money",
+  "file": "sounds/money/counter_roll_1.wav",
+  "duration": 1.492,
+  "channels": 1,
+  "tags": [
+   "counter",
+   "numbers",
+   "count"
+  ],
+  "description": "Number counter rolling up"
+ },
+ {
+  "name": "counter_roll_2",
+  "category": "money",
+  "file": "sounds/money/counter_roll_2.wav",
+  "duration": 2.441,
+  "channels": 2,
+  "tags": [
+   "counter",
+   "numbers",
+   "ding"
+  ],
+  "description": "Counter rolling then ding"
+ },
+ {
+  "name": "cha_ching",
+  "category": "money",
+  "file": "sounds/money/cha_ching.wav",
+  "duration": 1.611,
+  "channels": 2,
+  "tags": [
+   "cha-ching",
+   "money",
+   "win"
+  ],
+  "description": "Bright two-bell cha-ching"
+ },
+ {
+  "name": "money_counter",
+  "category": "money",
+  "file": "sounds/money/money_counter.wav",
+  "duration": 1.22,
+  "channels": 1,
+  "tags": [
+   "bills",
+   "cash",
+   "counting"
+  ],
+  "description": "Bills flicking through a counter"
+ },
+ {
+  "name": "typing_1",
+  "category": "typing",
+  "file": "sounds/typing/typing_1.wav",
+  "duration": 1.622,
+  "channels": 1,
+  "tags": [
+   "typing",
+   "keyboard",
+   "mechanical"
+  ],
+  "description": "Mechanical keyboard typing"
+ },
+ {
+  "name": "typing_2",
+  "category": "typing",
+  "file": "sounds/typing/typing_2.wav",
+  "duration": 1.644,
+  "channels": 1,
+  "tags": [
+   "typing",
+   "laptop",
+   "soft"
+  ],
+  "description": "Soft laptop typing"
+ },
+ {
+  "name": "typing_3",
+  "category": "typing",
+  "file": "sounds/typing/typing_3.wav",
+  "duration": 1.601,
+  "channels": 1,
+  "tags": [
+   "typing",
+   "clicky"
+  ],
+  "description": "Clicky keyboard typing"
+ },
+ {
+  "name": "typing_fast",
+  "category": "typing",
+  "file": "sounds/typing/typing_fast.wav",
+  "duration": 1.435,
+  "channels": 1,
+  "tags": [
+   "typing",
+   "fast",
+   "hacker"
+  ],
+  "description": "Very fast typing burst"
+ },
+ {
+  "name": "key_single_1",
+  "category": "typing",
+  "file": "sounds/typing/key_single_1.wav",
+  "duration": 0.07,
+  "channels": 1,
+  "tags": [
+   "key",
+   "press"
+  ],
+  "description": "Single key press"
+ },
+ {
+  "name": "key_single_2",
+  "category": "typing",
+  "file": "sounds/typing/key_single_2.wav",
+  "duration": 0.07,
+  "channels": 1,
+  "tags": [
+   "key",
+   "soft"
+  ],
+  "description": "Soft single key press"
+ },
+ {
+  "name": "key_enter",
+  "category": "typing",
+  "file": "sounds/typing/key_enter.wav",
+  "duration": 0.16,
+  "channels": 1,
+  "tags": [
+   "enter",
+   "spacebar",
+   "key"
+  ],
+  "description": "Big enter / spacebar press"
+ },
+ {
+  "name": "typewriter_bell",
+  "category": "typing",
+  "file": "sounds/typing/typewriter_bell.wav",
+  "duration": 1.6,
+  "channels": 1,
+  "tags": [
+   "typewriter",
+   "retro",
+   "bell"
+  ],
+  "description": "Typewriter clacks, bell and carriage return"
+ },
+ {
+  "name": "typewriter_keys",
+  "category": "typing",
+  "file": "sounds/typing/typewriter_keys.wav",
+  "duration": 1.218,
+  "channels": 1,
+  "tags": [
+   "typewriter",
+   "typing",
+   "retro"
+  ],
+  "description": "Typewriter typing"
+ },
+ {
+  "name": "shutter_1",
+  "category": "camera",
+  "file": "sounds/camera/shutter_1.wav",
+  "duration": 0.111,
+  "channels": 1,
+  "tags": [
+   "shutter",
+   "camera",
+   "photo"
+  ],
+  "description": "Camera shutter"
+ },
+ {
+  "name": "shutter_2",
+  "category": "camera",
+  "file": "sounds/camera/shutter_2.wav",
+  "duration": 0.128,
+  "channels": 1,
+  "tags": [
+   "shutter",
+   "dslr",
+   "photo"
+  ],
+  "description": "DSLR shutter with mirror slap"
+ },
+ {
+  "name": "shutter_quick",
+  "category": "camera",
+  "file": "sounds/camera/shutter_quick.wav",
+  "duration": 0.062,
+  "channels": 1,
+  "tags": [
+   "shutter",
+   "phone",
+   "snap"
+  ],
+  "description": "Phone camera snap"
+ },
+ {
+  "name": "shutter_burst",
+  "category": "camera",
+  "file": "sounds/camera/shutter_burst.wav",
+  "duration": 0.51,
+  "channels": 1,
+  "tags": [
+   "burst",
+   "shutter",
+   "photos"
+  ],
+  "description": "Burst mode (5 shots)"
+ },
+ {
+  "name": "flash_charge",
+  "category": "camera",
+  "file": "sounds/camera/flash_charge.wav",
+  "duration": 1.33,
+  "channels": 1,
+  "tags": [
+   "flash",
+   "charge",
+   "camera"
+  ],
+  "description": "Flash charging whine + ready beep"
+ },
+ {
+  "name": "film_wind",
+  "category": "camera",
+  "file": "sounds/camera/film_wind.wav",
+  "duration": 0.85,
+  "channels": 1,
+  "tags": [
+   "film",
+   "wind",
+   "ratchet"
+  ],
+  "description": "Film advance ratchet"
+ },
+ {
+  "name": "focus_beep",
+  "category": "camera",
+  "file": "sounds/camera/focus_beep.wav",
+  "duration": 0.13,
+  "channels": 1,
+  "tags": [
+   "focus",
+   "beep",
+   "camera"
+  ],
+  "description": "Autofocus bip-bip"
+ },
+ {
+  "name": "polaroid",
+  "category": "camera",
+  "file": "sounds/camera/polaroid.wav",
+  "duration": 1.2,
+  "channels": 1,
+  "tags": [
+   "polaroid",
+   "instant",
+   "print"
+  ],
+  "description": "Instant camera shot + motor"
+ },
+ {
+  "name": "glitch_1",
+  "category": "glitch",
+  "file": "sounds/glitch/glitch_1.wav",
+  "duration": 0.459,
+  "channels": 2,
+  "tags": [
+   "glitch",
+   "digital",
+   "error"
+  ],
+  "description": "Digital glitch burst"
+ },
+ {
+  "name": "glitch_2",
+  "category": "glitch",
+  "file": "sounds/glitch/glitch_2.wav",
+  "duration": 0.384,
+  "channels": 2,
+  "tags": [
+   "glitch",
+   "digital",
+   "error"
+  ],
+  "description": "Digital glitch burst"
+ },
+ {
+  "name": "glitch_3",
+  "category": "glitch",
+  "file": "sounds/glitch/glitch_3.wav",
+  "duration": 0.608,
+  "channels": 2,
+  "tags": [
+   "glitch",
+   "digital",
+   "error"
+  ],
+  "description": "Digital glitch burst"
+ },
+ {
+  "name": "glitch_4",
+  "category": "glitch",
+  "file": "sounds/glitch/glitch_4.wav",
+  "duration": 0.524,
+  "channels": 2,
+  "tags": [
+   "glitch",
+   "digital",
+   "error"
+  ],
+  "description": "Digital glitch burst"
+ },
+ {
+  "name": "glitch_5",
+  "category": "glitch",
+  "file": "sounds/glitch/glitch_5.wav",
+  "duration": 0.415,
+  "channels": 2,
+  "tags": [
+   "glitch",
+   "digital",
+   "error"
+  ],
+  "description": "Digital glitch burst"
+ },
+ {
+  "name": "glitch_short_1",
+  "category": "glitch",
+  "file": "sounds/glitch/glitch_short_1.wav",
+  "duration": 0.146,
+  "channels": 2,
+  "tags": [
+   "glitch",
+   "short",
+   "cut"
+  ],
+  "description": "Tiny glitch for quick cuts"
+ },
+ {
+  "name": "glitch_short_2",
+  "category": "glitch",
+  "file": "sounds/glitch/glitch_short_2.wav",
+  "duration": 0.192,
+  "channels": 2,
+  "tags": [
+   "glitch",
+   "short",
+   "cut"
+  ],
+  "description": "Tiny glitch for quick cuts"
+ },
+ {
+  "name": "glitch_short_3",
+  "category": "glitch",
+  "file": "sounds/glitch/glitch_short_3.wav",
+  "duration": 0.13,
+  "channels": 2,
+  "tags": [
+   "glitch",
+   "short",
+   "cut"
+  ],
+  "description": "Tiny glitch for quick cuts"
+ },
+ {
+  "name": "glitch_stutter_1",
+  "category": "glitch",
+  "file": "sounds/glitch/glitch_stutter_1.wav",
+  "duration": 0.275,
+  "channels": 1,
+  "tags": [
+   "stutter",
+   "glitch",
+   "repeat"
+  ],
+  "description": "Buffer stutter that shrinks"
+ },
+ {
+  "name": "glitch_stutter_2",
+  "category": "glitch",
+  "file": "sounds/glitch/glitch_stutter_2.wav",
+  "duration": 0.59,
+  "channels": 1,
+  "tags": [
+   "stutter",
+   "glitch",
+   "repeat"
+  ],
+  "description": "Long buffer stutter"
+ },
+ {
+  "name": "static_burst_1",
+  "category": "glitch",
+  "file": "sounds/glitch/static_burst_1.wav",
+  "duration": 0.7,
+  "channels": 1,
+  "tags": [
+   "static",
+   "tv",
+   "noise"
+  ],
+  "description": "TV static burst"
+ },
+ {
+  "name": "static_burst_2",
+  "category": "glitch",
+  "file": "sounds/glitch/static_burst_2.wav",
+  "duration": 0.7,
+  "channels": 1,
+  "tags": [
+   "static",
+   "tv",
+   "noise"
+  ],
+  "description": "TV static burst with hum"
+ },
+ {
+  "name": "data_chirp_1",
+  "category": "glitch",
+  "file": "sounds/glitch/data_chirp_1.wav",
+  "duration": 0.598,
+  "channels": 1,
+  "tags": [
+   "data",
+   "modem",
+   "computer"
+  ],
+  "description": "Modem-like data chirps"
+ },
+ {
+  "name": "data_chirp_2",
+  "category": "glitch",
+  "file": "sounds/glitch/data_chirp_2.wav",
+  "duration": 0.988,
+  "channels": 1,
+  "tags": [
+   "data",
+   "modem",
+   "computer"
+  ],
+  "description": "Modem-like data chirps"
+ },
+ {
+  "name": "power_up",
+  "category": "glitch",
+  "file": "sounds/glitch/power_up.wav",
+  "duration": 1.681,
+  "channels": 2,
+  "tags": [
+   "power",
+   "up",
+   "start"
+  ],
+  "description": "Electric power-up"
+ },
+ {
+  "name": "power_down",
+  "category": "glitch",
+  "file": "sounds/glitch/power_down.wav",
+  "duration": 1.2,
+  "channels": 1,
+  "tags": [
+   "power",
+   "down",
+   "shutdown"
+  ],
+  "description": "Electric power-down"
+ },
+ {
+  "name": "laser_1",
+  "category": "tech",
+  "file": "sounds/tech/laser_1.wav",
+  "duration": 0.379,
+  "channels": 2,
+  "tags": [
+   "laser",
+   "pew",
+   "sci-fi"
+  ],
+  "description": "Sci-fi laser shot"
+ },
+ {
+  "name": "laser_2",
+  "category": "tech",
+  "file": "sounds/tech/laser_2.wav",
+  "duration": 0.431,
+  "channels": 2,
+  "tags": [
+   "laser",
+   "pew",
+   "sci-fi"
+  ],
+  "description": "Sci-fi laser shot"
+ },
+ {
+  "name": "laser_3",
+  "category": "tech",
+  "file": "sounds/tech/laser_3.wav",
+  "duration": 0.522,
+  "channels": 2,
+  "tags": [
+   "laser",
+   "pew",
+   "sci-fi"
+  ],
+  "description": "Sci-fi laser shot"
+ },
+ {
+  "name": "scanner",
+  "category": "tech",
+  "file": "sounds/tech/scanner.wav",
+  "duration": 1.5,
+  "channels": 1,
+  "tags": [
+   "scan",
+   "scanner",
+   "sci-fi"
+  ],
+  "description": "Scanner sweeping back and forth"
+ },
+ {
+  "name": "hologram",
+  "category": "tech",
+  "file": "sounds/tech/hologram.wav",
+  "duration": 2.155,
+  "channels": 2,
+  "tags": [
+   "hologram",
+   "shimmer",
+   "sci-fi"
+  ],
+  "description": "Shimmering hologram"
+ },
+ {
+  "name": "beam_up",
+  "category": "tech",
+  "file": "sounds/tech/beam_up.wav",
+  "duration": 2.437,
+  "channels": 2,
+  "tags": [
+   "beam",
+   "teleport",
+   "rise"
+  ],
+  "description": "Teleport beam rising"
+ },
+ {
+  "name": "computer_beeps_1",
+  "category": "tech",
+  "file": "sounds/tech/computer_beeps_1.wav",
+  "duration": 0.78,
+  "channels": 1,
+  "tags": [
+   "computer",
+   "beeps",
+   "sci-fi"
+  ],
+  "description": "Sci-fi computer beeps"
+ },
+ {
+  "name": "computer_beeps_2",
+  "category": "tech",
+  "file": "sounds/tech/computer_beeps_2.wav",
+  "duration": 1.26,
+  "channels": 1,
+  "tags": [
+   "computer",
+   "beeps",
+   "sci-fi"
+  ],
+  "description": "Sci-fi computer beeps"
+ },
+ {
+  "name": "robot_blips",
+  "category": "tech",
+  "file": "sounds/tech/robot_blips.wav",
+  "duration": 0.83,
+  "channels": 1,
+  "tags": [
+   "robot",
+   "blips",
+   "voice"
+  ],
+  "description": "Robot talking blips"
+ },
+ {
+  "name": "teleport",
+  "category": "tech",
+  "file": "sounds/tech/teleport.wav",
+  "duration": 1.658,
+  "channels": 2,
+  "tags": [
+   "teleport",
+   "warp",
+   "sci-fi"
+  ],
+  "description": "Teleport phase-out"
+ },
+ {
+  "name": "charge_up",
+  "category": "tech",
+  "file": "sounds/tech/charge_up.wav",
+  "duration": 1.214,
+  "channels": 1,
+  "tags": [
+   "charge",
+   "energy",
+   "power"
+  ],
+  "description": "Energy charge-up whine"
+ },
+ {
+  "name": "shield",
+  "category": "tech",
+  "file": "sounds/tech/shield.wav",
+  "duration": 1.467,
+  "channels": 2,
+  "tags": [
+   "shield",
+   "force",
+   "sci-fi"
+  ],
+  "description": "Energy shield hum"
+ },
+ {
+  "name": "ui_hud",
+  "category": "tech",
+  "file": "sounds/tech/ui_hud.wav",
+  "duration": 0.514,
+  "channels": 2,
+  "tags": [
+   "hud",
+   "interface",
+   "sci-fi"
+  ],
+  "description": "Futuristic HUD pop-up"
+ },
+ {
+  "name": "sparkle_1",
+  "category": "magic",
+  "file": "sounds/magic/sparkle_1.wav",
+  "duration": 1.52,
+  "channels": 2,
+  "tags": [
+   "sparkle",
+   "magic",
+   "shine"
+  ],
+  "description": "Magic sparkle twinkles"
+ },
+ {
+  "name": "sparkle_2",
+  "category": "magic",
+  "file": "sounds/magic/sparkle_2.wav",
+  "duration": 1.278,
+  "channels": 2,
+  "tags": [
+   "sparkle",
+   "magic",
+   "shine"
+  ],
+  "description": "Magic sparkle twinkles"
+ },
+ {
+  "name": "sparkle_3",
+  "category": "magic",
+  "file": "sounds/magic/sparkle_3.wav",
+  "duration": 1.707,
+  "channels": 2,
+  "tags": [
+   "sparkle",
+   "magic",
+   "shine"
+  ],
+  "description": "Magic sparkle twinkles"
+ },
+ {
+  "name": "magic_wand_1",
+  "category": "magic",
+  "file": "sounds/magic/magic_wand_1.wav",
+  "duration": 1.758,
+  "channels": 2,
+  "tags": [
+   "wand",
+   "magic",
+   "spell"
+  ],
+  "description": "Wand swish + sparkles"
+ },
+ {
+  "name": "magic_wand_2",
+  "category": "magic",
+  "file": "sounds/magic/magic_wand_2.wav",
+  "duration": 2.15,
+  "channels": 2,
+  "tags": [
+   "wand",
+   "magic",
+   "spell"
+  ],
+  "description": "Longer wand spell"
+ },
+ {
+  "name": "shimmer_1",
+  "category": "magic",
+  "file": "sounds/magic/shimmer_1.wav",
+  "duration": 2.841,
+  "channels": 2,
+  "tags": [
+   "shimmer",
+   "glow",
+   "soft"
+  ],
+  "description": "Soft shimmer"
+ },
+ {
+  "name": "shimmer_2",
+  "category": "magic",
+  "file": "sounds/magic/shimmer_2.wav",
+  "duration": 2.731,
+  "channels": 2,
+  "tags": [
+   "shimmer",
+   "glow",
+   "soft"
+  ],
+  "description": "Soft shimmer"
+ },
+ {
+  "name": "twinkle",
+  "category": "magic",
+  "file": "sounds/magic/twinkle.wav",
+  "duration": 1.151,
+  "channels": 2,
+  "tags": [
+   "twinkle",
+   "star",
+   "cute"
+  ],
+  "description": "Quick twinkle run"
+ },
+ {
+  "name": "fairy_rise",
+  "category": "magic",
+  "file": "sounds/magic/fairy_rise.wav",
+  "duration": 1.698,
+  "channels": 2,
+  "tags": [
+   "harp",
+   "fairy",
+   "rise",
+   "dream"
+  ],
+  "description": "Harp-like rising glissando"
+ },
+ {
+  "name": "reveal_glow_1",
+  "category": "magic",
+  "file": "sounds/magic/reveal_glow_1.wav",
+  "duration": 2.774,
+  "channels": 2,
+  "tags": [
+   "reveal",
+   "glow",
+   "swell"
+  ],
+  "description": "Glowing reveal swell"
+ },
+ {
+  "name": "reveal_glow_2",
+  "category": "magic",
+  "file": "sounds/magic/reveal_glow_2.wav",
+  "duration": 2.881,
+  "channels": 2,
+  "tags": [
+   "reveal",
+   "glow",
+   "swell"
+  ],
+  "description": "Glowing reveal swell"
+ },
+ {
+  "name": "chime_tree",
+  "category": "magic",
+  "file": "sounds/magic/chime_tree.wav",
+  "duration": 2.047,
+  "channels": 2,
+  "tags": [
+   "chimes",
+   "glissando",
+   "dream"
+  ],
+  "description": "Wind-chime glissando"
+ },
+ {
+  "name": "poof",
+  "category": "magic",
+  "file": "sounds/magic/poof.wav",
+  "duration": 1.237,
+  "channels": 2,
+  "tags": [
+   "poof",
+   "smoke",
+   "disappear"
+  ],
+  "description": "Magic poof (disappear)"
+ },
+ {
+  "name": "boing_1",
+  "category": "cartoon",
+  "file": "sounds/cartoon/boing_1.wav",
+  "duration": 0.8,
+  "channels": 1,
+  "tags": [
+   "boing",
+   "bounce",
+   "funny"
+  ],
+  "description": "Cartoon boing"
+ },
+ {
+  "name": "boing_2",
+  "category": "cartoon",
+  "file": "sounds/cartoon/boing_2.wav",
+  "duration": 0.8,
+  "channels": 1,
+  "tags": [
+   "boing",
+   "bounce",
+   "funny"
+  ],
+  "description": "Cartoon boing"
+ },
+ {
+  "name": "boing_3",
+  "category": "cartoon",
+  "file": "sounds/cartoon/boing_3.wav",
+  "duration": 0.8,
+  "channels": 1,
+  "tags": [
+   "boing",
+   "bounce",
+   "funny"
+  ],
+  "description": "Cartoon boing"
+ },
+ {
+  "name": "spring",
+  "category": "cartoon",
+  "file": "sounds/cartoon/spring.wav",
+  "duration": 0.7,
+  "channels": 1,
+  "tags": [
+   "spring",
+   "sproing",
+   "funny"
+  ],
+  "description": "Springy sproing"
+ },
+ {
+  "name": "slide_whistle_up",
+  "category": "cartoon",
+  "file": "sounds/cartoon/slide_whistle_up.wav",
+  "duration": 0.8,
+  "channels": 1,
+  "tags": [
+   "whistle",
+   "up",
+   "funny"
+  ],
+  "description": "Slide whistle up"
+ },
+ {
+  "name": "slide_whistle_down",
+  "category": "cartoon",
+  "file": "sounds/cartoon/slide_whistle_down.wav",
+  "duration": 0.8,
+  "channels": 1,
+  "tags": [
+   "whistle",
+   "down",
+   "fall"
+  ],
+  "description": "Slide whistle down (falling)"
+ },
+ {
+  "name": "bonk_1",
+  "category": "cartoon",
+  "file": "sounds/cartoon/bonk_1.wav",
+  "duration": 0.227,
+  "channels": 1,
+  "tags": [
+   "bonk",
+   "wood",
+   "hit"
+  ],
+  "description": "Wood-block bonk"
+ },
+ {
+  "name": "bonk_2",
+  "category": "cartoon",
+  "file": "sounds/cartoon/bonk_2.wav",
+  "duration": 0.35,
+  "channels": 1,
+  "tags": [
+   "bonk",
+   "head",
+   "hit",
+   "funny"
+  ],
+  "description": "Head bonk"
+ },
+ {
+  "name": "wobble_1",
+  "category": "cartoon",
+  "file": "sounds/cartoon/wobble_1.wav",
+  "duration": 1.0,
+  "channels": 1,
+  "tags": [
+   "wobble",
+   "wah",
+   "funny"
+  ],
+  "description": "Wah-wah wobble"
+ },
+ {
+  "name": "wobble_2",
+  "category": "cartoon",
+  "file": "sounds/cartoon/wobble_2.wav",
+  "duration": 1.2,
+  "channels": 1,
+  "tags": [
+   "wobble",
+   "wah",
+   "funny"
+  ],
+  "description": "Wah-wah wobble"
+ },
+ {
+  "name": "zip_1",
+  "category": "cartoon",
+  "file": "sounds/cartoon/zip_1.wav",
+  "duration": 0.15,
+  "channels": 1,
+  "tags": [
+   "zip",
+   "fast",
+   "away"
+  ],
+  "description": "Zip away (up)"
+ },
+ {
+  "name": "zip_2",
+  "category": "cartoon",
+  "file": "sounds/cartoon/zip_2.wav",
+  "duration": 0.15,
+  "channels": 1,
+  "tags": [
+   "zip",
+   "fast",
+   "down"
+  ],
+  "description": "Zip down"
+ },
+ {
+  "name": "squeak_1",
+  "category": "cartoon",
+  "file": "sounds/cartoon/squeak_1.wav",
+  "duration": 0.25,
+  "channels": 1,
+  "tags": [
+   "squeak",
+   "toy",
+   "cute"
+  ],
+  "description": "Rubber toy squeak"
+ },
+ {
+  "name": "squeak_2",
+  "category": "cartoon",
+  "file": "sounds/cartoon/squeak_2.wav",
+  "duration": 0.35,
+  "channels": 1,
+  "tags": [
+   "squeak",
+   "toy",
+   "cute"
+  ],
+  "description": "Rubber toy squeak"
+ },
+ {
+  "name": "wah_wah_fail",
+  "category": "cartoon",
+  "file": "sounds/cartoon/wah_wah_fail.wav",
+  "duration": 3.197,
+  "channels": 2,
+  "tags": [
+   "fail",
+   "sad",
+   "trombone",
+   "funny"
+  ],
+  "description": "Sad descending \"wah wah wah wahhh\""
+ },
+ {
+  "name": "tiptoe",
+  "category": "cartoon",
+  "file": "sounds/cartoon/tiptoe.wav",
+  "duration": 1.8,
+  "channels": 1,
+  "tags": [
+   "tiptoe",
+   "sneak",
+   "pizzicato"
+  ],
+  "description": "Sneaky pizzicato tiptoe"
+ },
+ {
+  "name": "run_away",
+  "category": "cartoon",
+  "file": "sounds/cartoon/run_away.wav",
+  "duration": 0.75,
+  "channels": 2,
+  "tags": [
+   "run",
+   "escape",
+   "fast"
+  ],
+  "description": "Run-away blips + zoom"
+ },
+ {
+  "name": "pop_eyes",
+  "category": "cartoon",
+  "file": "sounds/cartoon/pop_eyes.wav",
+  "duration": 0.48,
+  "channels": 1,
+  "tags": [
+   "surprise",
+   "eyes",
+   "boink"
+  ],
+  "description": "Eyes-pop \"boink\""
+ },
+ {
+  "name": "drum_hit_fail",
+  "category": "cartoon",
+  "file": "sounds/cartoon/drum_hit_fail.wav",
+  "duration": 1.55,
+  "channels": 1,
+  "tags": [
+   "rimshot",
+   "joke",
+   "funny"
+  ],
+  "description": "Comedy ba-dum-tss"
+ },
+ {
+  "name": "coin_8bit",
+  "category": "retro",
+  "file": "sounds/retro/coin_8bit.wav",
+  "duration": 0.3,
+  "channels": 1,
+  "tags": [
+   "coin",
+   "8bit",
+   "game"
+  ],
+  "description": "8-bit coin"
+ },
+ {
+  "name": "jump_8bit",
+  "category": "retro",
+  "file": "sounds/retro/jump_8bit.wav",
+  "duration": 0.16,
+  "channels": 1,
+  "tags": [
+   "jump",
+   "8bit",
+   "game"
+  ],
+  "description": "8-bit jump"
+ },
+ {
+  "name": "powerup_8bit",
+  "category": "retro",
+  "file": "sounds/retro/powerup_8bit.wav",
+  "duration": 0.57,
+  "channels": 1,
+  "tags": [
+   "powerup",
+   "8bit",
+   "game"
+  ],
+  "description": "8-bit power-up scale"
+ },
+ {
+  "name": "laser_8bit",
+  "category": "retro",
+  "file": "sounds/retro/laser_8bit.wav",
+  "duration": 0.2,
+  "channels": 1,
+  "tags": [
+   "laser",
+   "8bit",
+   "shoot"
+  ],
+  "description": "8-bit laser"
+ },
+ {
+  "name": "hit_8bit",
+  "category": "retro",
+  "file": "sounds/retro/hit_8bit.wav",
+  "duration": 0.12,
+  "channels": 1,
+  "tags": [
+   "hit",
+   "8bit",
+   "damage"
+  ],
+  "description": "8-bit hit"
+ },
+ {
+  "name": "explosion_8bit",
+  "category": "retro",
+  "file": "sounds/retro/explosion_8bit.wav",
+  "duration": 0.496,
+  "channels": 1,
+  "tags": [
+   "explosion",
+   "8bit",
+   "boom"
+  ],
+  "description": "8-bit explosion"
+ },
+ {
+  "name": "select_8bit",
+  "category": "retro",
+  "file": "sounds/retro/select_8bit.wav",
+  "duration": 0.095,
+  "channels": 1,
+  "tags": [
+   "select",
+   "8bit",
+   "menu"
+  ],
+  "description": "8-bit menu select"
+ },
+ {
+  "name": "gameover_8bit",
+  "category": "retro",
+  "file": "sounds/retro/gameover_8bit.wav",
+  "duration": 1.32,
+  "channels": 1,
+  "tags": [
+   "gameover",
+   "8bit",
+   "lose"
+  ],
+  "description": "8-bit game-over tune"
+ },
+ {
+  "name": "extra_life_8bit",
+  "category": "retro",
+  "file": "sounds/retro/extra_life_8bit.wav",
+  "duration": 0.48,
+  "channels": 1,
+  "tags": [
+   "life",
+   "8bit",
+   "bonus"
+  ],
+  "description": "8-bit extra life"
+ },
+ {
+  "name": "blip_8bit",
+  "category": "retro",
+  "file": "sounds/retro/blip_8bit.wav",
+  "duration": 0.06,
+  "channels": 1,
+  "tags": [
+   "blip",
+   "8bit"
+  ],
+  "description": "8-bit blip"
+ },
+ {
+  "name": "warp_8bit",
+  "category": "retro",
+  "file": "sounds/retro/warp_8bit.wav",
+  "duration": 0.7,
+  "channels": 1,
+  "tags": [
+   "warp",
+   "8bit",
+   "travel"
+  ],
+  "description": "8-bit warp pipe"
+ },
+ {
+  "name": "win_jingle_8bit",
+  "category": "retro",
+  "file": "sounds/retro/win_jingle_8bit.wav",
+  "duration": 1.25,
+  "channels": 1,
+  "tags": [
+   "win",
+   "8bit",
+   "victory"
+  ],
+  "description": "8-bit victory jingle"
+ },
+ {
+  "name": "step_8bit",
+  "category": "retro",
+  "file": "sounds/retro/step_8bit.wav",
+  "duration": 0.48,
+  "channels": 1,
+  "tags": [
+   "step",
+   "8bit",
+   "walk"
+  ],
+  "description": "8-bit footstep blips"
+ },
+ {
+  "name": "error_8bit",
+  "category": "retro",
+  "file": "sounds/retro/error_8bit.wav",
+  "duration": 0.3,
+  "channels": 1,
+  "tags": [
+   "error",
+   "8bit",
+   "wrong"
+  ],
+  "description": "8-bit error"
+ },
+ {
+  "name": "success_jingle_1",
+  "category": "stinger",
+  "file": "sounds/stinger/success_jingle_1.wav",
+  "duration": 2.1,
+  "channels": 2,
+  "tags": [
+   "success",
+   "win",
+   "jingle"
+  ],
+  "description": "Marimba success jingle"
+ },
+ {
+  "name": "success_jingle_2",
+  "category": "stinger",
+  "file": "sounds/stinger/success_jingle_2.wav",
+  "duration": 1.914,
+  "channels": 2,
+  "tags": [
+   "success",
+   "jingle",
+   "happy"
+  ],
+  "description": "Plucked success jingle"
+ },
+ {
+  "name": "fail_jingle",
+  "category": "stinger",
+  "file": "sounds/stinger/fail_jingle.wav",
+  "duration": 1.902,
+  "channels": 2,
+  "tags": [
+   "fail",
+   "lose",
+   "sad"
+  ],
+  "description": "Sad fail jingle"
+ },
+ {
+  "name": "tada",
+  "category": "stinger",
+  "file": "sounds/stinger/tada.wav",
+  "duration": 2.369,
+  "channels": 2,
+  "tags": [
+   "tada",
+   "fanfare",
+   "reveal"
+  ],
+  "description": "Ta-da fanfare"
+ },
+ {
+  "name": "reveal_stinger",
+  "category": "stinger",
+  "file": "sounds/stinger/reveal_stinger.wav",
+  "duration": 3.261,
+  "channels": 2,
+  "tags": [
+   "reveal",
+   "stinger",
+   "drama"
+  ],
+  "description": "Build, hit and chord"
+ },
+ {
+  "name": "transition_stinger",
+  "category": "stinger",
+  "file": "sounds/stinger/transition_stinger.wav",
+  "duration": 1.806,
+  "channels": 2,
+  "tags": [
+   "transition",
+   "stinger",
+   "stab"
+  ],
+  "description": "Whoosh into a chord stab"
+ },
+ {
+  "name": "suspense_hit",
+  "category": "stinger",
+  "file": "sounds/stinger/suspense_hit.wav",
+  "duration": 2.427,
+  "channels": 2,
+  "tags": [
+   "suspense",
+   "hit",
+   "drama"
+  ],
+  "description": "Low hit + dissonant stab"
+ },
+ {
+  "name": "positive_chord",
+  "category": "stinger",
+  "file": "sounds/stinger/positive_chord.wav",
+  "duration": 2.977,
+  "channels": 2,
+  "tags": [
+   "positive",
+   "chord",
+   "warm"
+  ],
+  "description": "Warm uplifting chord swell"
+ },
+ {
+  "name": "mystery",
+  "category": "stinger",
+  "file": "sounds/stinger/mystery.wav",
+  "duration": 3.482,
+  "channels": 2,
+  "tags": [
+   "mystery",
+   "curious",
+   "bell"
+  ],
+  "description": "Mysterious bell motif"
+ },
+ {
+  "name": "news_sting",
+  "category": "stinger",
+  "file": "sounds/stinger/news_sting.wav",
+  "duration": 2.188,
+  "channels": 2,
+  "tags": [
+   "news",
+   "breaking",
+   "urgent"
+  ],
+  "description": "Breaking-news style sting"
+ },
+ {
+  "name": "question_hmm",
+  "category": "stinger",
+  "file": "sounds/stinger/question_hmm.wav",
+  "duration": 1.107,
+  "channels": 2,
+  "tags": [
+   "question",
+   "curious",
+   "hmm"
+  ],
+  "description": "Curious \"hmm?\" two-note"
+ },
+ {
+  "name": "error_1",
+  "category": "alert",
+  "file": "sounds/alert/error_1.wav",
+  "duration": 0.37,
+  "channels": 1,
+  "tags": [
+   "error",
+   "wrong",
+   "fail"
+  ],
+  "description": "Two-tone error"
+ },
+ {
+  "name": "error_2",
+  "category": "alert",
+  "file": "sounds/alert/error_2.wav",
+  "duration": 0.33,
+  "channels": 1,
+  "tags": [
+   "error",
+   "denied"
+  ],
+  "description": "Triple low error beep"
+ },
+ {
+  "name": "error_buzz",
+  "category": "alert",
+  "file": "sounds/alert/error_buzz.wav",
+  "duration": 0.5,
+  "channels": 1,
+  "tags": [
+   "buzz",
+   "error",
+   "harsh"
+  ],
+  "description": "Harsh error buzz"
+ },
+ {
+  "name": "wrong_buzzer",
+  "category": "alert",
+  "file": "sounds/alert/wrong_buzzer.wav",
+  "duration": 0.8,
+  "channels": 1,
+  "tags": [
+   "wrong",
+   "buzzer",
+   "quiz"
+  ],
+  "description": "Game-show wrong-answer buzzer"
+ },
+ {
+  "name": "correct_1",
+  "category": "alert",
+  "file": "sounds/alert/correct_1.wav",
+  "duration": 1.239,
+  "channels": 2,
+  "tags": [
+   "correct",
+   "right",
+   "quiz"
+  ],
+  "description": "Correct-answer chime"
+ },
+ {
+  "name": "correct_2",
+  "category": "alert",
+  "file": "sounds/alert/correct_2.wav",
+  "duration": 1.178,
+  "channels": 2,
+  "tags": [
+   "correct",
+   "yes",
+   "quiz"
+  ],
+  "description": "Bright two-note correct"
+ },
+ {
+  "name": "alarm_beep_1",
+  "category": "alert",
+  "file": "sounds/alert/alarm_beep_1.wav",
+  "duration": 0.64,
+  "channels": 1,
+  "tags": [
+   "alarm",
+   "beep",
+   "urgent"
+  ],
+  "description": "Four urgent beeps"
+ },
+ {
+  "name": "alarm_beep_2",
+  "category": "alert",
+  "file": "sounds/alert/alarm_beep_2.wav",
+  "duration": 1.49,
+  "channels": 1,
+  "tags": [
+   "alarm",
+   "hi-lo",
+   "warning"
+  ],
+  "description": "Hi-lo alarm"
+ },
+ {
+  "name": "censor_beep",
+  "category": "alert",
+  "file": "sounds/alert/censor_beep.wav",
+  "duration": 0.6,
+  "channels": 1,
+  "tags": [
+   "censor",
+   "bleep",
+   "beep"
+  ],
+  "description": "Censor bleep (1 kHz)"
+ },
+ {
+  "name": "warning_siren",
+  "category": "alert",
+  "file": "sounds/alert/warning_siren.wav",
+  "duration": 2.0,
+  "channels": 1,
+  "tags": [
+   "siren",
+   "warning",
+   "emergency"
+  ],
+  "description": "Siren sweep up and down"
+ },
+ {
+  "name": "attention_ping",
+  "category": "alert",
+  "file": "sounds/alert/attention_ping.wav",
+  "duration": 1.628,
+  "channels": 2,
+  "tags": [
+   "ping",
+   "sonar",
+   "attention"
+  ],
+  "description": "Sonar-like attention ping"
+ },
+ {
+  "name": "beep_short",
+  "category": "alert",
+  "file": "sounds/alert/beep_short.wav",
+  "duration": 0.12,
+  "channels": 1,
+  "tags": [
+   "beep",
+   "short"
+  ],
+  "description": "Short beep"
+ },
+ {
+  "name": "tick_1",
+  "category": "timer",
+  "file": "sounds/timer/tick_1.wav",
+  "duration": 0.04,
+  "channels": 1,
+  "tags": [
+   "tick",
+   "clock"
+  ],
+  "description": "Clock tick"
+ },
+ {
+  "name": "tick_2",
+  "category": "timer",
+  "file": "sounds/timer/tick_2.wav",
+  "duration": 0.05,
+  "channels": 1,
+  "tags": [
+   "tick",
+   "wood"
+  ],
+  "description": "Woody tick"
+ },
+ {
+  "name": "clock_tick",
+  "category": "timer",
+  "file": "sounds/timer/clock_tick.wav",
+  "duration": 2.037,
+  "channels": 1,
+  "tags": [
+   "clock",
+   "tick",
+   "tock",
+   "waiting"
+  ],
+  "description": "Tick-tock clock (2.5 s)"
+ },
+ {
+  "name": "countdown_beep_1",
+  "category": "timer",
+  "file": "sounds/timer/countdown_beep_1.wav",
+  "duration": 3.6,
+  "channels": 1,
+  "tags": [
+   "countdown",
+   "start",
+   "race"
+  ],
+  "description": "3-2-1-GO race beeps"
+ },
+ {
+  "name": "countdown_beep_2",
+  "category": "timer",
+  "file": "sounds/timer/countdown_beep_2.wav",
+  "duration": 2.1,
+  "channels": 1,
+  "tags": [
+   "countdown",
+   "fast"
+  ],
+  "description": "Fast 3-2-1 beeps"
+ },
+ {
+  "name": "timer_done",
+  "category": "timer",
+  "file": "sounds/timer/timer_done.wav",
+  "duration": 0.96,
+  "channels": 1,
+  "tags": [
+   "timer",
+   "alarm",
+   "done"
+  ],
+  "description": "Digital timer alarm"
+ },
+ {
+  "name": "stopwatch",
+  "category": "timer",
+  "file": "sounds/timer/stopwatch.wav",
+  "duration": 1.595,
+  "channels": 1,
+  "tags": [
+   "stopwatch",
+   "timer",
+   "tick"
+  ],
+  "description": "Stopwatch start click and ticking"
+ },
+ {
+  "name": "metronome",
+  "category": "timer",
+  "file": "sounds/timer/metronome.wav",
+  "duration": 1.55,
+  "channels": 1,
+  "tags": [
+   "metronome",
+   "beat",
+   "count"
+  ],
+  "description": "Four metronome clicks (120 bpm)"
+ },
+ {
+  "name": "kick_1",
+  "category": "drums",
+  "file": "sounds/drums/kick_1.wav",
+  "duration": 0.45,
+  "channels": 1,
+  "tags": [
+   "kick",
+   "drum",
+   "beat"
+  ],
+  "description": "Punchy kick"
+ },
+ {
+  "name": "kick_2",
+  "category": "drums",
+  "file": "sounds/drums/kick_2.wav",
+  "duration": 1.1,
+  "channels": 1,
+  "tags": [
+   "kick",
+   "808",
+   "bass"
+  ],
+  "description": "Long 808-style kick"
+ },
+ {
+  "name": "snare_1",
+  "category": "drums",
+  "file": "sounds/drums/snare_1.wav",
+  "duration": 0.3,
+  "channels": 1,
+  "tags": [
+   "snare",
+   "drum"
+  ],
+  "description": "Tight snare"
+ },
+ {
+  "name": "snare_2",
+  "category": "drums",
+  "file": "sounds/drums/snare_2.wav",
+  "duration": 1.124,
+  "channels": 2,
+  "tags": [
+   "snare",
+   "big",
+   "reverb"
+  ],
+  "description": "Big roomy snare"
+ },
+ {
+  "name": "clap_1",
+  "category": "drums",
+  "file": "sounds/drums/clap_1.wav",
+  "duration": 0.431,
+  "channels": 1,
+  "tags": [
+   "clap",
+   "hand"
+  ],
+  "description": "Hand clap"
+ },
+ {
+  "name": "clap_2",
+  "category": "drums",
+  "file": "sounds/drums/clap_2.wav",
+  "duration": 1.006,
+  "channels": 2,
+  "tags": [
+   "clap",
+   "reverb"
+  ],
+  "description": "Clap with reverb"
+ },
+ {
+  "name": "hihat_closed",
+  "category": "drums",
+  "file": "sounds/drums/hihat_closed.wav",
+  "duration": 0.08,
+  "channels": 1,
+  "tags": [
+   "hihat",
+   "hat"
+  ],
+  "description": "Closed hi-hat"
+ },
+ {
+  "name": "hihat_open",
+  "category": "drums",
+  "file": "sounds/drums/hihat_open.wav",
+  "duration": 0.5,
+  "channels": 1,
+  "tags": [
+   "hihat",
+   "open"
+  ],
+  "description": "Open hi-hat"
+ },
+ {
+  "name": "rim",
+  "category": "drums",
+  "file": "sounds/drums/rim.wav",
+  "duration": 0.08,
+  "channels": 1,
+  "tags": [
+   "rim",
+   "click",
+   "drum"
+  ],
+  "description": "Rim shot"
+ },
+ {
+  "name": "tom",
+  "category": "drums",
+  "file": "sounds/drums/tom.wav",
+  "duration": 0.6,
+  "channels": 1,
+  "tags": [
+   "tom",
+   "drum"
+  ],
+  "description": "Floor tom"
+ },
+ {
+  "name": "crash",
+  "category": "drums",
+  "file": "sounds/drums/crash.wav",
+  "duration": 2.532,
+  "channels": 2,
+  "tags": [
+   "crash",
+   "cymbal"
+  ],
+  "description": "Crash cymbal"
+ },
+ {
+  "name": "drum_roll",
+  "category": "drums",
+  "file": "sounds/drums/drum_roll.wav",
+  "duration": 3.539,
+  "channels": 2,
+  "tags": [
+   "roll",
+   "snare",
+   "build",
+   "drumroll"
+  ],
+  "description": "Snare roll building up"
+ },
+ {
+  "name": "paper_1",
+  "category": "paper",
+  "file": "sounds/paper/paper_1.wav",
+  "duration": 0.47,
+  "channels": 1,
+  "tags": [
+   "paper",
+   "crinkle",
+   "foley"
+  ],
+  "description": "Paper crinkle"
+ },
+ {
+  "name": "paper_2",
+  "category": "paper",
+  "file": "sounds/paper/paper_2.wav",
+  "duration": 0.793,
+  "channels": 1,
+  "tags": [
+   "paper",
+   "crinkle",
+   "foley"
+  ],
+  "description": "Paper crinkle"
+ },
+ {
+  "name": "rip_1",
+  "category": "paper",
+  "file": "sounds/paper/rip_1.wav",
+  "duration": 0.45,
+  "channels": 1,
+  "tags": [
+   "rip",
+   "tear",
+   "paper"
+  ],
+  "description": "Paper rip / tear"
+ },
+ {
+  "name": "rip_2",
+  "category": "paper",
+  "file": "sounds/paper/rip_2.wav",
+  "duration": 0.8,
+  "channels": 1,
+  "tags": [
+   "rip",
+   "tear",
+   "paper"
+  ],
+  "description": "Paper rip / tear"
+ },
+ {
+  "name": "scribble_1",
+  "category": "paper",
+  "file": "sounds/paper/scribble_1.wav",
+  "duration": 0.8,
+  "channels": 1,
+  "tags": [
+   "scribble",
+   "pen",
+   "writing"
+  ],
+  "description": "Pen / marker scribble"
+ },
+ {
+  "name": "scribble_2",
+  "category": "paper",
+  "file": "sounds/paper/scribble_2.wav",
+  "duration": 1.2,
+  "channels": 1,
+  "tags": [
+   "scribble",
+   "pen",
+   "writing"
+  ],
+  "description": "Pen / marker scribble"
+ },
+ {
+  "name": "page_flip_1",
+  "category": "paper",
+  "file": "sounds/paper/page_flip_1.wav",
+  "duration": 0.347,
+  "channels": 1,
+  "tags": [
+   "page",
+   "flip",
+   "book"
+  ],
+  "description": "Page flip"
+ },
+ {
+  "name": "page_flip_2",
+  "category": "paper",
+  "file": "sounds/paper/page_flip_2.wav",
+  "duration": 0.5,
+  "channels": 1,
+  "tags": [
+   "page",
+   "flip",
+   "book"
+  ],
+  "description": "Page flip"
+ },
+ {
+  "name": "stamp",
+  "category": "paper",
+  "file": "sounds/paper/stamp.wav",
+  "duration": 0.288,
+  "channels": 1,
+  "tags": [
+   "stamp",
+   "approved",
+   "office"
+  ],
+  "description": "Rubber stamp"
+ },
+ {
+  "name": "crumple",
+  "category": "paper",
+  "file": "sounds/paper/crumple.wav",
+  "duration": 1.198,
+  "channels": 1,
+  "tags": [
+   "crumple",
+   "paper",
+   "trash"
+  ],
+  "description": "Paper crumpled into a ball"
+ },
+ {
+  "name": "sticky_note",
+  "category": "paper",
+  "file": "sounds/paper/sticky_note.wav",
+  "duration": 0.321,
+  "channels": 1,
+  "tags": [
+   "sticky",
+   "note",
+   "peel"
+  ],
+  "description": "Sticky note peel and slap"
+ },
+ {
+  "name": "zipper",
+  "category": "foley",
+  "file": "sounds/foley/zipper.wav",
+  "duration": 0.594,
+  "channels": 1,
+  "tags": [
+   "zipper",
+   "zip",
+   "clothes"
+  ],
+  "description": "Zipper pull"
+ },
+ {
+  "name": "knock_1",
+  "category": "foley",
+  "file": "sounds/foley/knock_1.wav",
+  "duration": 0.699,
+  "channels": 2,
+  "tags": [
+   "knock",
+   "door",
+   "wood"
+  ],
+  "description": "Door knock x3"
+ },
+ {
+  "name": "knock_2",
+  "category": "foley",
+  "file": "sounds/foley/knock_2.wav",
+  "duration": 0.584,
+  "channels": 2,
+  "tags": [
+   "knock",
+   "door"
+  ],
+  "description": "Door knock x2"
+ },
+ {
+  "name": "glass_clink",
+  "category": "foley",
+  "file": "sounds/foley/glass_clink.wav",
+  "duration": 1.066,
+  "channels": 2,
+  "tags": [
+   "glass",
+   "clink",
+   "cheers"
+  ],
+  "description": "Glass clink / cheers"
+ },
+ {
+  "name": "pen_click",
+  "category": "foley",
+  "file": "sounds/foley/pen_click.wav",
+  "duration": 0.146,
+  "channels": 1,
+  "tags": [
+   "pen",
+   "click",
+   "office"
+  ],
+  "description": "Ballpoint pen click"
+ },
+ {
+  "name": "light_switch",
+  "category": "foley",
+  "file": "sounds/foley/light_switch.wav",
+  "duration": 0.06,
+  "channels": 1,
+  "tags": [
+   "switch",
+   "light",
+   "click"
+  ],
+  "description": "Light switch"
+ },
+ {
+  "name": "spray",
+  "category": "foley",
+  "file": "sounds/foley/spray.wav",
+  "duration": 0.9,
+  "channels": 1,
+  "tags": [
+   "spray",
+   "aerosol",
+   "hiss"
+  ],
+  "description": "Spray can"
+ },
+ {
+  "name": "fireworks",
+  "category": "foley",
+  "file": "sounds/foley/fireworks.wav",
+  "duration": 3.644,
+  "channels": 2,
+  "tags": [
+   "fireworks",
+   "celebration",
+   "new year"
+  ],
+  "description": "Firework whistle, bang and crackle"
+ },
+ {
+  "name": "footsteps",
+  "category": "foley",
+  "file": "sounds/foley/footsteps.wav",
+  "duration": 2.242,
+  "channels": 2,
+  "tags": [
+   "footsteps",
+   "walk",
+   "steps"
+  ],
+  "description": "Footsteps on a hard floor"
+ },
+ {
+  "name": "door_open",
+  "category": "foley",
+  "file": "sounds/foley/door_open.wav",
+  "duration": 0.92,
+  "channels": 1,
+  "tags": [
+   "door",
+   "creak",
+   "open"
+  ],
+  "description": "Door handle and creak"
+ },
+ {
+  "name": "cup_set_down",
+  "category": "foley",
+  "file": "sounds/foley/cup_set_down.wav",
+  "duration": 0.4,
+  "channels": 1,
+  "tags": [
+   "cup",
+   "table",
+   "kitchen"
+  ],
+  "description": "Cup set down on a table"
+ },
+ {
+  "name": "wind_1",
+  "category": "nature",
+  "file": "sounds/nature/wind_1.wav",
+  "duration": 4.997,
+  "channels": 2,
+  "tags": [
+   "wind",
+   "air",
+   "ambience"
+  ],
+  "description": "Wind (5 s)"
+ },
+ {
+  "name": "wind_2",
+  "category": "nature",
+  "file": "sounds/nature/wind_2.wav",
+  "duration": 4.999,
+  "channels": 2,
+  "tags": [
+   "wind",
+   "storm",
+   "howl"
+  ],
+  "description": "Howling high wind (5 s)"
+ },
+ {
+  "name": "rain",
+  "category": "nature",
+  "file": "sounds/nature/rain.wav",
+  "duration": 4.995,
+  "channels": 2,
+  "tags": [
+   "rain",
+   "weather",
+   "ambience"
+  ],
+  "description": "Rain (5 s)"
+ },
+ {
+  "name": "thunder",
+  "category": "nature",
+  "file": "sounds/nature/thunder.wav",
+  "duration": 5.301,
+  "channels": 2,
+  "tags": [
+   "thunder",
+   "storm",
+   "weather"
+  ],
+  "description": "Thunder crack and roll"
+ },
+ {
+  "name": "water_drop_1",
+  "category": "nature",
+  "file": "sounds/nature/water_drop_1.wav",
+  "duration": 0.478,
+  "channels": 2,
+  "tags": [
+   "water",
+   "drop",
+   "drip"
+  ],
+  "description": "Water drop"
+ },
+ {
+  "name": "water_drop_2",
+  "category": "nature",
+  "file": "sounds/nature/water_drop_2.wav",
+  "duration": 1.588,
+  "channels": 2,
+  "tags": [
+   "water",
+   "drop",
+   "drip"
+  ],
+  "description": "Water drop in a cave"
+ },
+ {
+  "name": "bubbles",
+  "category": "nature",
+  "file": "sounds/nature/bubbles.wav",
+  "duration": 1.641,
+  "channels": 2,
+  "tags": [
+   "bubbles",
+   "water",
+   "underwater"
+  ],
+  "description": "Bubbles rising"
+ },
+ {
+  "name": "fire_crackle",
+  "category": "nature",
+  "file": "sounds/nature/fire_crackle.wav",
+  "duration": 3.994,
+  "channels": 2,
+  "tags": [
+   "fire",
+   "crackle",
+   "campfire"
+  ],
+  "description": "Campfire crackle (4 s)"
+ },
+ {
+  "name": "wave",
+  "category": "nature",
+  "file": "sounds/nature/wave.wav",
+  "duration": 4.863,
+  "channels": 2,
+  "tags": [
+   "ocean",
+   "wave",
+   "beach"
+  ],
+  "description": "Ocean wave (5 s)"
+ },
+ {
+  "name": "stream",
+  "category": "nature",
+  "file": "sounds/nature/stream.wav",
+  "duration": 3.995,
+  "channels": 2,
+  "tags": [
+   "stream",
+   "water",
+   "river"
+  ],
+  "description": "Babbling stream (4 s)"
+ },
+ {
+  "name": "birds",
+  "category": "nature",
+  "file": "sounds/nature/birds.wav",
+  "duration": 2.473,
+  "channels": 2,
+  "tags": [
+   "birds",
+   "morning",
+   "nature"
+  ],
+  "description": "Birds chirping (3 s)"
+ },
+ {
+  "name": "crickets",
+  "category": "nature",
+  "file": "sounds/nature/crickets.wav",
+  "duration": 3.889,
+  "channels": 2,
+  "tags": [
+   "crickets",
+   "night",
+   "ambience"
+  ],
+  "description": "Night crickets (4 s)"
+ }
+]
